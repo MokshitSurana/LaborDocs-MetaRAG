@@ -1,0 +1,177 @@
+{
+  "retriever_name": "Reranker-TFIDF (semantic)",
+  "answers": {
+    "q1": {
+      "query": "What FTE range must GEO appointments fall within to be covered by the GEO contract?",
+      "answer": "Assistants\u2019 hours of work are reflected in their percentage of appointment [Source 4]. It is expected that a .5 FTE assistant will devote an average of 20 hours per week over the course of a full appointment period, and assistants appointed for other FTE levels would be expected to perform work for a proportionately greater or lesser average number of hours per week [Source 4]. The University determines the FTE for all assistants [Source 6].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:39"
+    },
+    "q2": {
+      "query": "How many days before the semester must appointment letters be issued?",
+      "answer": "For Graduate Employees, the letter of appointment shall be issued no later than 45 days before the start of the appointment [Source 1]. However, if the appointment is made less than 45 days before or 45 days after the beginning of the semester, the letter of appointment shall be issued as soon as practicable [Source 1].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "TT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:39"
+    },
+    "q3": {
+      "query": "Are tuition and fee waivers guaranteed for GEO-covered employees?",
+      "answer": "Assistants covered under the GEO agreement have certain fees waived, including the Service Fee, Health Service Fee, Academic Facilities and Maintenance Assessment, and Library and Information Technology Assessment [Source 1]. International students covered by the GEO agreement will have $65 of the International Student Fee waived each Fall and Spring semester [Source 1]. The union can bargain General Fee increases exceeding $25 per semester [Source 1].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:40"
+    },
+    "q4": {
+      "query": "What fees must the University waive for GEO members?",
+      "answer": "Assistants covered under the GEO agreement have the following fees and assessments waived: Service Fee, Health Service Fee, Academic Facilities and Maintenance Assessment, and Library and Information Technology Assessment [Source 1]. Additionally, the University waives $65 of the International Student Fee for each Fall and Spring semester for international students covered by the agreement [Source 1]. Any new fee created after the ratification and execution of this Agreement shall be waived for the duration of this Agreement [Source 1]. During the term of this Agreement, if the General Fee increases more than $25 per semester, the Union reserves the right to bargain the additional increase [Source 1].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:41"
+    },
+    "q5": {
+      "query": "What is the process for resolving grievances under the GEO collective bargaining agreement?",
+      "answer": "I am unable to answer this question. While the provided documents discuss grievance procedures for faculty and other employee groups [Source 1, Source 2, Source 3, Source 4, Source 5, Source 6], none of them describe the grievance process under the GEO (Graduate Employees Organization) collective bargaining agreement.",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:42"
+    },
+    "q6": {
+      "query": "What are the minimum salaries for Assistant, Associate, and Full Professors under the CBA?",
+      "answer": "This information is not available in the provided documents.",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:43"
+    },
+    "q7": {
+      "query": "How is merit pay determined and allocated for tenure-track faculty?",
+      "answer": "Merit pay for tenure-track faculty is determined based on the Annual Evaluation of Faculty at UIC Policy (FPPG 700), which aims to recognize accomplishments and make judgments regarding their significance. These judgments form part of the basis for assigning salary increases, recommending promotion, and awarding tenure [Source 1, Source 5]. Student evaluation data cannot be the sole factor in determining merit raises [Source 1, Source 5].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:44"
+    },
+    "q8": {
+      "query": "What protections does the agreement provide regarding academic freedom?",
+      "answer": "The agreements provide the following protections regarding academic freedom:\n\n*   **For GEO members (Graduate Employees Organization):** Academic freedom is recognized as essential to higher education. However, the University retains sole control over academic judgments concerning courses, curriculum, instruction, content, methods, materials, assignments, class size, and grading policies [Source 1]. The agreement does not waive the Union's right to negotiate mandatory subjects of bargaining [Source 1].\n*   **For NTT Faculty (Non-Tenure Track):** The University policy is to maintain and encourage full freedom within the law of inquiry, discourse, teaching, research, and publication. It protects faculty members against influences that would restrict their exercise of these freedoms in their area of scholarly research and interest [Source 2]. Faculty members are entitled to a hearing before the Committee on Academic Freedom and Tenure of the campus Senate if they believe their academic freedom has been violated [Source 2].\n*   **For TT Faculty (Tenure Track):** The University policy is to maintain and encourage full freedom within the law of inquiry, discourse, teaching, research, and publication. It protects faculty members against influences that would restrict their exercise of these freedoms in their area of scholarly research and interest [Source 3]. Faculty members are entitled to a hearing on written request before the Committee on Academic Freedom and Tenure of the campus Senate if they believe their academic freedom has been violated [Source 3].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:46"
+    },
+    "q9": {
+      "query": "What process governs non-reappointment or tenure decisions?",
+      "answer": "For tenure-track faculty, decisions relating to appointment, reappointment, promotion, and tenure are made consistent with the \"University of Illinois Statutes, The General Rules Concerning University Organization, and related UIC campus policies\" [Source 3]. Disputes are handled under these statutes and rules, and are not subject to the Grievance and Arbitration Article XVIII of the agreement [Source 3].\n\nAn assistant professor on a definite-term appointment may be given written notice of non-reappointment, except during the last year of the probationary period [Source 2]. Except for assistant professors in their first year of service, written notice must be given at least twelve months before the appointment expires, or a terminal contract for one additional year is offered [Source 2]. For first-year assistant professors, notice of non-reappointment must be given by March 1, and a terminal contract is only required if notice is given after March 1 [Source 2]. Non-reappointment is not subject to the grievance and arbitration procedure of the agreement [Source 2].\n\nFor tenured faculty, discipline or dismissal follows the \"standards for due cause and procedures outlined in the University of Illinois Statutes, and related campus human resource policies and procedures\" [Source 5]. Any grievance or appeal is handled solely through these processes and is not subject to the Grievance and Arbitration Article XVI of this Agreement [Source 5].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:48"
+    },
+    "q10": {
+      "query": "What grievance and arbitration process applies to tenure-track faculty disputes?",
+      "answer": "For discipline or dismissal of tenured faculty, the University follows the standards and procedures outlined in the University of Illinois Statutes and related campus human resource policies, as they may be amended [Source 1]. Any process, grievance, or appeal of decisions relating to discipline or dismissal of tenured faculty are handled solely through these processes and are not subject to the Grievance and Arbitration Article XVI of the agreement [Source 1]. Disputes regarding appointment, reappointment, promotion, and tenure are also handled under the University of Illinois Statutes and The General Rules Concerning University Organization and are not subject to the Grievance and Arbitration Article XVIII of this Agreement [Source 2].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:49"
+    },
+    "q11": {
+      "query": "What is the minimum salary for instructors, lecturers, and clinical assistant professors?",
+      "answer": "Effective August 16, 2022, the minimum salary for full-time bargaining unit members with the rank of Instructor, Lecturer, or Clinical Assistant Professor will not be lower than $60,000 [Source 1]. These minimum salaries refer to nine-month salaries, with the exception of bargaining unit members who work for the University Libraries, where the minimum salaries refer to 12-month salaries [Source 4].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:51"
+    },
+    "q12": {
+      "query": "How are promotion and reappointment decisions handled for NTT faculty?",
+      "answer": "For Non-Tenure Track (NTT) faculty, Article IX of the agreement outlines provisions for appointment, reappointment, promotion, layoff, and recall [Source 2]. Procedures for promotion of bargaining unit faculty within the ranks identified in the University of Illinois Statutes shall be as provided in the bylaws or policies of the bargaining unit member\u2019s academic unit [Source 3]. If such procedures are not included in their bylaws or policies, academic units shall develop and incorporate into their bylaws or policies procedures for promotion of bargaining unit members through shared governance within one year of the signing of this agreement [Source 3]. However, Article IX does not apply to Bridge to Faculty Program Scholars; their appointment and reappointment follow the University's guidelines for the Bridge to Faculty Program [Source 10]. The University also reaffirms the objective of its Annual Evaluation of Faculty at UIC Policy (FPPG 700) [Source 7]. Student evaluation data should not be considered in isolation to make decisions related to the renewal of employment, promotion cases, or the determination of merit raises [Source 7].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:52"
+    },
+    "q13": {
+      "query": "What side letter provisions exist regarding teaching professor ranks?",
+      "answer": "Yes, there are side letter provisions regarding teaching professor ranks.\n\n[Source 1] states that a side letter addresses teaching professor ranks, noting that the implementation of the \"Teaching\" modifier will not require individuals currently in positions modified by \"Clinical\" or \"Research\" to convert to one modified by \"Teaching\" as a condition for reappointment. Academic units adopting the \"Teaching\" modifier for non-tenured ranks (assistant professor, associate professor, and professor) shall review and revise their written workload expectations, Annual Evaluation criteria, and Promotion Norms and Expectations within a year of signing the agreement [Source 1].\n\n[Source 2] mentions that changes in rank shall not affect bargaining unit member salaries and timelines for multi-year contracts. Bargaining unit members who change appointment under this Side Letter shall be considered for promotion under norms established by the candidate\u2019s academic unit in compliance with the criteria and guidelines developed by the University Senate and colleges for non-tenured academic ranks using the \u201cTeaching\u201d modifier [Source 2]. After academic units complete these revisions, units shall hire bargaining unit members in the appropriate rank for the responsibilities the units intend bargaining unit members to perform, and based on the required qualifications for those ranks [Source 2].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:54"
+    },
+    "q14": {
+      "query": "Under what conditions can NTT faculty be laid off or recalled?",
+      "answer": "The document \"[Source 1]\" indicates that Article IX of the agreement covers \"Layoff and Recall\" for Non-Tenure Track (NTT) faculty. Additionally, \"[Source 2]\" states that if reduced or discontinued work is reinstated, faculty on the recall list must be offered reinstatement to complete their multi-year appointment.",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:55"
+    },
+    "q15": {
+      "query": "What professional leave options are available to NTT faculty under the agreement?",
+      "answer": "The University and the Union have agreed that the Office of the Provost will continue to work with the Faculty Senate to develop and implement a policy regarding the eligibility of NTT faculty to apply for professional leave and shall report on the progress toward this policy annually during the term of this contract [Source 1].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:58:56"
+    }
+  }
+}

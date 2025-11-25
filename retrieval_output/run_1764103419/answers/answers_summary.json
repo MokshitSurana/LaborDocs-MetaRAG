@@ -1,0 +1,6 @@
+{
+  "timestamp": "2025-11-25 15:00:00",
+  "retriever_count": 15,
+  "top_k": 10,
+  "output_dir": "retrieval_output/run_1764103419\\answers"
+}

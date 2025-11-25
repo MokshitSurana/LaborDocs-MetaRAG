@@ -1,0 +1,19 @@
+[
+    {"id": "q1", "query": "What FTE range must GEO appointments fall within to be covered by the GEO contract?"},
+    {"id": "q2", "query": "How many days before the semester must appointment letters be issued?"},
+    {"id": "q3", "query": "Are tuition and fee waivers guaranteed for GEO-covered employees?"},
+    {"id": "q4", "query": "What fees must the University waive for GEO members?"},
+    {"id": "q5", "query": "What is the process for resolving grievances under the GEO collective bargaining agreement?"},
+
+    {"id": "q6", "query": "What are the minimum salaries for Assistant, Associate, and Full Professors under the CBA?"},
+    {"id": "q7", "query": "How is merit pay determined and allocated for tenure-track faculty?"},
+    {"id": "q8", "query": "What protections does the agreement provide regarding academic freedom?"},
+    {"id": "q9", "query": "What process governs non-reappointment or tenure decisions?"},
+    {"id": "q10", "query": "What grievance and arbitration process applies to tenure-track faculty disputes?"},
+
+    {"id": "q11", "query": "What is the minimum salary for instructors, lecturers, and clinical assistant professors?"},
+    {"id": "q12", "query": "How are promotion and reappointment decisions handled for NTT faculty?"},
+    {"id": "q13", "query": "What side letter provisions exist regarding teaching professor ranks?"},
+    {"id": "q14", "query": "Under what conditions can NTT faculty be laid off or recalled?"},
+    {"id": "q15", "query": "What professional leave options are available to NTT faculty under the agreement?"}
+]

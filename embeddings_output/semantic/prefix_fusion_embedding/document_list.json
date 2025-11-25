@@ -1,0 +1,13 @@
+{
+  "documents": [
+    "GEO-CBA 2022-2025",
+    "NTT-FACULTY 2023-final",
+    "TT-FACULTY 2023-final",
+    "UIC-CIR CBA 2022-2026"
+  ],
+  "total_chunks": 280,
+  "chunking_type": "semantic",
+  "embedding_type": "prefix-fusion",
+  "model_name": "Snowflake/arctic-embed-s",
+  "created_at": "2025-11-25 14:41:54"
+}

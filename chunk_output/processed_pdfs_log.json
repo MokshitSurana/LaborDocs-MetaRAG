@@ -1,0 +1,22 @@
+{
+  "62e8a2b7a8ca5097": {
+    "pdf_name": "GEO-CBA 2022-2025.txt",
+    "output_path": "chunk_output\\GEO-CBA 2022-2025_semantic_p85.0_chunks.json",
+    "processed_at": "2025-11-25 13:48:34"
+  },
+  "57621904c32ddb11": {
+    "pdf_name": "NTT-FACULTY 2023-final.txt",
+    "output_path": "chunk_output\\NTT-FACULTY 2023-final_semantic_p85.0_chunks.json",
+    "processed_at": "2025-11-25 13:48:39"
+  },
+  "b3221343de74ad66": {
+    "pdf_name": "TT-FACULTY 2023-final.txt",
+    "output_path": "chunk_output\\TT-FACULTY 2023-final_semantic_p85.0_chunks.json",
+    "processed_at": "2025-11-25 13:48:44"
+  },
+  "0903aecfe57efa92": {
+    "pdf_name": "UIC-CIR CBA 2022-2026.txt",
+    "output_path": "chunk_output\\UIC-CIR CBA 2022-2026_semantic_p85.0_chunks.json",
+    "processed_at": "2025-11-25 13:48:48"
+  }
+}

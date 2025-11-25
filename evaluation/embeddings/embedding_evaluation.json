@@ -1,0 +1,96 @@
+{
+  "recursive": {
+    "tfidf_embedding": {
+      "total_vectors": 135,
+      "dimension": 384,
+      "index_size_bytes": 207405,
+      "documents": [
+        "TT-FACULTY 2023-final",
+        "NTT-FACULTY 2023-final",
+        "UIC-CIR CBA 2022-2026",
+        "GEO-CBA 2022-2025"
+      ],
+      "document_count": 4,
+      "avg_neighbor_distance": 0.7452428936958313,
+      "min_neighbor_distance": 0.6635189056396484,
+      "max_neighbor_distance": 0.799741804599762
+    },
+    "prefix_fusion_embedding": {
+      "total_vectors": 135,
+      "dimension": 384,
+      "index_size_bytes": 207405,
+      "documents": [
+        "TT-FACULTY 2023-final",
+        "NTT-FACULTY 2023-final",
+        "UIC-CIR CBA 2022-2026",
+        "GEO-CBA 2022-2025"
+      ],
+      "document_count": 4,
+      "avg_neighbor_distance": 0.8439505100250244,
+      "min_neighbor_distance": 0.7482901811599731,
+      "max_neighbor_distance": 0.8848963975906372
+    },
+    "naive_embedding": {
+      "total_vectors": 135,
+      "dimension": 384,
+      "index_size_bytes": 207405,
+      "documents": [
+        "TT-FACULTY 2023-final",
+        "NTT-FACULTY 2023-final",
+        "UIC-CIR CBA 2022-2026",
+        "GEO-CBA 2022-2025"
+      ],
+      "document_count": 4,
+      "avg_neighbor_distance": 0.8340563774108887,
+      "min_neighbor_distance": 0.7476193904876709,
+      "max_neighbor_distance": 0.8826019167900085
+    }
+  },
+  "semantic": {
+    "tfidf_embedding": {
+      "total_vectors": 209,
+      "dimension": 384,
+      "index_size_bytes": 321069,
+      "documents": [
+        "TT-FACULTY 2023-final",
+        "NTT-FACULTY 2023-final",
+        "UIC-CIR CBA 2022-2026",
+        "GEO-CBA 2022-2025"
+      ],
+      "document_count": 4,
+      "avg_neighbor_distance": 0.739193320274353,
+      "min_neighbor_distance": 0.6176518201828003,
+      "max_neighbor_distance": 0.830065131187439
+    },
+    "prefix_fusion_embedding": {
+      "total_vectors": 209,
+      "dimension": 384,
+      "index_size_bytes": 321069,
+      "documents": [
+        "TT-FACULTY 2023-final",
+        "NTT-FACULTY 2023-final",
+        "UIC-CIR CBA 2022-2026",
+        "GEO-CBA 2022-2025"
+      ],
+      "document_count": 4,
+      "avg_neighbor_distance": 0.8395553827285767,
+      "min_neighbor_distance": 0.7260844707489014,
+      "max_neighbor_distance": 0.899390697479248
+    },
+    "naive_embedding": {
+      "total_vectors": 209,
+      "dimension": 384,
+      "index_size_bytes": 321069,
+      "documents": [
+        "TT-FACULTY 2023-final",
+        "NTT-FACULTY 2023-final",
+        "UIC-CIR CBA 2022-2026",
+        "GEO-CBA 2022-2025"
+      ],
+      "document_count": 4,
+      "avg_neighbor_distance": 0.8277530670166016,
+      "min_neighbor_distance": 0.7083958983421326,
+      "max_neighbor_distance": 0.8996454477310181
+    }
+  }
+}

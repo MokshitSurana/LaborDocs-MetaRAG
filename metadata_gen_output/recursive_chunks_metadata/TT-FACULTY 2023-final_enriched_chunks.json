@@ -1,0 +1,2885 @@
+{
+  "document_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3",
+  "document_name": "TT-FACULTY 2023-final.txt",
+  "chunks": [
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_0",
+      "text": "\n\nArticle I. Purpose \nArticle II. Recognition \nArticle III. Management Rights \nArticle IV. Non-Discrimination and Anti-Harassment \nArticle V. Diversity and Affirmative Action \nArticle VI. Compensation, Leaves and Benefits \nArticle VII. Institutional Commitments \nArticle VIII. Union Membership and Activity \nArticle IX. Appointment, Non-Reappointment, Promotion and Tenure \nArticle X. Academic Freedom \nArticle XI. Governance \nArticle XII. Hours of Work and Commitment \nArticle XIII. Health and Safety \nArticle XIV. Physical Conditions \nArticle XV. Discipline and Dismissal \nArticle XVI. Labor Management Meetings \nArticle XVII. Access to Personnel File \nArticle XVIII. Grievance and Arbitration \nArticle XIX. No Strike or Lockout \nArticle XX. Electronic Availability of Agreement \nArticle XXI. Savings Clause \nArticle XXII. Entire Agreement \nArticle XXIII. Duration \nSide Letter: Miscellaneous \ni",
+      "start_idx": 743,
+      "end_idx": 1640,
+      "metadata": {
+        "num_sentences": 23,
+        "num_words": 115,
+        "recursion_depth": 6,
+        "content": {
+          "content_type": {
+            "primary": "Administrative",
+            "subtypes": []
+          },
+          "keywords": [
+            "purpose",
+            "recognition",
+            "management rights",
+            "non-discrimination",
+            "anti-harassment",
+            "diversity",
+            "affirmative action",
+            "compensation",
+            "leaves",
+            "benefits",
+            "institutional commitments",
+            "union membership",
+            "union activity",
+            "appointment",
+            "non-reappointment",
+            "promotion",
+            "tenure",
+            "academic freedom",
+            "governance",
+            "hours of work",
+            "commitment",
+            "health and safety",
+            "physical conditions",
+            "discipline",
+            "dismissal",
+            "labor management meetings",
+            "access to personnel file",
+            "grievance",
+            "arbitration",
+            "no strike",
+            "lockout",
+            "electronic availability",
+            "savings clause",
+            "entire agreement",
+            "duration",
+            "miscellaneous"
+          ],
+          "key_provisions": [],
+          "job_titles_mentioned": [
+            "None"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": false
+        },
+        "contract": {
+          "covered_employee_group": "Not Specified",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This is a table of contents or overview of the articles covered in the collective bargaining agreement, including topics from purpose and recognition to discipline, grievance procedures, and duration of the agreement.",
+          "common_queries": [
+            "What topics are covered in the collective bargaining agreement?",
+            "Where can I find information about non-discrimination policies?",
+            "Which article covers the grievance procedure?"
+          ],
+          "related_topics": [
+            "Grievance Process",
+            "Discipline Process",
+            "Benefits"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_0::e20d5a161cba"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Administrative] [Not Specified]",
+        "tf_idf_keywords": [
+          "electronic availability",
+          "compensation",
+          "arbitration",
+          "non-discrimination",
+          "None",
+          "discipline",
+          "governance",
+          "hours of work",
+          "dismissal",
+          "labor management meetings",
+          "anti-harassment",
+          "recognition",
+          "grievance",
+          "union membership",
+          "appointment"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_1",
+      "text": "\n\nArticle I. Purpose\nThe purpose and intent of this Agreement is to provide for an orderly collective bargaining\nrelationship and the promotion of sound and mutually beneficial relations between the Union, on\nbehalf of bargaining unit employees, and the University. This Agreement is intended to establish\nand make clear the wages, hours, and terms and conditions of employment of bargaining unit\nemployees and to provide a procedure for the equitable resolution of grievances as required by terms\nof the Illinois Educational Labor Relations Act.\nArticle II. Recognition\nPursuant to the Order of Certification issued by the Illinois Education Labor Relations Board on\nJune 28, 2012, in case number 2012-RC-0008-C, and subsequent IELRA regulation amendments,\nthe University recognizes UIC United Faculty Local 6456, IFT-AFT, AAUP, AFL- CIO (herein\nreferred to as the \"Union\"), as the exclusive representative for the purpose of collective bargaining\nfor the bargaining unit described below and such other classifications as may be added in\naccordance with the law:\nIncluded: All full-time (i.e., employees who have 0.51 or greater appointment as a faculty\nmember) tenure or tenure track faculty.\nExcluded: All faculty members of the College of Pharmacy, the College of Medicine, the\nSchool of Law, and the College of Dentistry. All supervisors, managerial and confidential\nemployees as defined under the Illinois Educational Labor Relations Act.\nArticle III. Management Rights\nA. The Parties to this Agreement recognize that the University of Illinois Board of Trustees\nStatutes (\"University Statutes\") define special rights and responsibilities for the faculty of\nthe University. Neither the University nor the Union intend that any of the terms of this\nAgreement abridge or diminish the roles of the faculty or the University as established in\nUniversity Statutes, as amended by the Board of Trustees from time to time. References in\nthis Article to traditional areas of management rights in the work place do not supplant the\nprovisions of University Statutes that, among other things, provide for the roles of the faculty\nand the other administrative and organizational entities that comprise the University.\nB. Except as specifically abridged by this Agreement, all powers, rights, and authority of the\nUniversity are reserved by the University, and the University retains sole and exclusive\ncontrol over any and all matters in the operation, management, and administration of the\nUniversity; the control of its properties and the maintenance of order and efficiency of the\nworkforce; and complete authority to exercise those rights and powers by making and\nimplementing decisions with respect to those rights and powers. In order to operate its\nbusiness and except as expressly and specifically limited or restricted by a provision of this\nAgreement, the University reserves and retains in full, exclusively and completely, any and\n1 of 30",
+      "start_idx": 1640,
+      "end_idx": 4584,
+      "metadata": {
+        "num_sentences": 15,
+        "num_words": 452,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Administrative",
+            "subtypes": [
+              "Union Recognition",
+              "Management Rights"
+            ]
+          },
+          "keywords": [
+            "collective bargaining",
+            "union",
+            "university",
+            "agreement",
+            "recognition",
+            "management rights",
+            "grievance",
+            "employees",
+            "faculty",
+            "terms and conditions of employment"
+          ],
+          "key_provisions": [
+            "University recognizes the Union as the exclusive representative",
+            "Management retains rights not specifically abridged by the agreement",
+            "Agreement intends to establish wages, hours, and terms and conditions of employment",
+            "Provides a procedure for equitable resolution of grievances"
+          ],
+          "job_titles_mentioned": [
+            "Faculty Member"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty - Tenure System",
+          "union_name": "UIC United Faculty Local 6456, IFT-AFT, AAUP, AFL- CIO",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [
+            "Faculty members of the College of Pharmacy, the College of Medicine, the School of Law, and the College of Dentistry",
+            "Supervisors",
+            "Managerial and confidential employees"
+          ],
+          "action_requirements": [
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the purpose of the collective bargaining agreement, recognizes the union as the exclusive representative for tenure/tenure-track faculty (excluding certain colleges), and affirms management's rights except as specifically limited by the agreement. It establishes the intent to define employment terms and provide a grievance procedure.",
+          "common_queries": [
+            "Who is covered by this collective bargaining agreement?",
+            "What are the recognized rights of the University under this agreement?",
+            "How does this agreement relate to the University Statutes?"
+          ],
+          "related_topics": [
+            "Grievance Procedure",
+            "Union Membership",
+            "Employee Classifications"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_1::b3d2f0cd3d52"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Administrative] [Faculty - Tenure System]",
+        "tf_idf_keywords": [
+          "management rights",
+          "recognition",
+          "agreement",
+          "terms and conditions of employment",
+          "grievance",
+          "faculty",
+          "Chicago",
+          "university",
+          "union",
+          "Faculty Member",
+          "employees",
+          "collective bargaining",
+          "UIC United Faculty Local 6456, IFT-AFT, AAUP, AFL- CIO"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_2",
+      "text": "\n\nall management rights, prerogatives, and privileges previously vested in or exercised by\nthe University, and the unqualified right to place any or all of such rights into effect.\nSuch rights and powers include, but are not limited to, the exclusive right and power:\n1. to determine the mission of the University, its organizational structure, and the\nmethods and means necessary to fulfill that mission;\n2. to adopt and amend budgets and make budgetary allocations or reallocations\naffecting the University as a whole or any of its departments or units;\n3. to establish qualifications, appoint, and determine the appointment fractions and\nduration of employment upon appointment for all faculty, including whether faculty\nwill be reappointed and, if so, the terms and conditions governing such\nreappointment;\n4. to determine the number of faculty to be appointed;\n5. to determine, assign, and schedule the type and kind of services and the work to\nbe performed by faculty or by others, including the location of such services or\nwork;\n6. to establish, modify, combine, or eliminate positions;\n7. to determine the number, location or relocation of facilities, buildings, and\nrooms, and ancillary facilities such as parking lots, including the policies\ngoverning the use of such buildings, rooms, or facilities;\n8. to discipline, suspend, dismiss, non-renew, and reappoint faculty;\n9. to supervise, train, and evaluate faculty;\n10. to determine materials and equipment to be utilized by faculty and the methods and\nmeans by which work shall be performed and services provided;\n11. to establish quality and performance standards rules for faculty;\n12. to adopt and enforce policies, rules, and regulations, including rules and regulations\ngoverning tuition waivers and the work, training, and conduct of faculty, as well as\nthose related to human resources functions; and\n13. to perform all other functions inherent in the administration, management, and\ncontrol of the University.\nC. The failure of the University to exercise any power, function, authority, or right reserved or\nretained by it, or the exercise of any power, function, authority, or right in a particular\n2 of 30",
+      "start_idx": 4584,
+      "end_idx": 6762,
+      "metadata": {
+        "num_sentences": 3,
+        "num_words": 341,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Contract_Provisions",
+            "subtypes": [
+              "Management Rights",
+              "University Governance",
+              "Faculty Relations"
+            ]
+          },
+          "keywords": [
+            "management rights",
+            "university",
+            "faculty",
+            "mission",
+            "appointments",
+            "discipline",
+            "policies",
+            "administration"
+          ],
+          "key_provisions": [
+            "University retains all management rights",
+            "University determines faculty appointments",
+            "University determines faculty workload",
+            "University disciplines faculty",
+            "University sets policies and rules"
+          ],
+          "job_titles_mentioned": [
+            "faculty",
+            "None"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty",
+          "union_name": "Not Specified",
+          "campus_location": "All Campuses",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the University's retained management rights, including the right to determine the University's mission, manage its budget, and make decisions regarding faculty appointments, discipline, and policies.",
+          "common_queries": [
+            "What rights does the University retain regarding faculty?",
+            "Who determines the University's mission and budget?",
+            "What policies and rules can the University enforce?"
+          ],
+          "related_topics": [
+            "Faculty Appointments",
+            "Discipline Process",
+            "University Policies"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_2::15c312d50c96"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Contract_Provisions] [Faculty]",
+        "tf_idf_keywords": [
+          "management rights",
+          "administration",
+          "policies",
+          "All Campuses",
+          "discipline",
+          "faculty",
+          "university",
+          "None",
+          "appointments",
+          "mission"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_3",
+      "text": "\n\nmanner shall not be deemed a waiver of the right of the University to exercise such power,\nfunction, authority, or right, or preclude the University from exercising the same in some\nother manner, so long as it does not conflict with an express provision of this Agreement.\nArticle IV. Non-Discrimination and Anti-Harassment\nA. There will be no discrimination by either the Union or University against any person\nbecause of race, color, national origin, religion, sex, pregnancy, sexual orientation,\ngender (including gender identity and gender expression), age, disability (including\nmental and physical), marital status, order of protection status, genetic information,\nveteran status, ancestry, unfavorable discharge from the military, citizenship or\nimmigration status, arrest record, or status as a protected veteran.\nB. There shall be no discrimination against any employee because of Union membership or\nbecause the employee is acting as a representative of the Union or its members or other\nemployees pursuant to the Agreement or policies or rules.\nC. The University of Illinois and the Union will not tolerate harassment. Harassment is defined\nas unwelcome conduct that is based on the actual or perceived categories above in Section A\nthat has the purpose or effect of: 1) becoming a condition of continued employment; or 2) is\nsufficiently severe or pervasive to substantially interfere with the individual's work\nperformance or create what a reasonable person would consider an intimidating, hostile, or\noffensive work environment. For purposes of this definition, the phrase \"working\nenvironment\" is not limited to a physical location an employee is assigned to perform their\nduties.\nD. The University of Illinois and the Union will not tolerate sexual harassment. Sexual\nharassment and sexual misconduct are defined in the University\u2019s Comprehensive Policy\nand Procedures for Sexual Misconduct Grievance Process. The University\u2019s policy can be\nfound on the Office for Access and Equity (OAE) website. The University considers such\nbehavior, whether physical or verbal, to be a breach of its standards of conduct.\nE. The University of Illinois and the Union do not condone workplace bullying. In the event that\nthe UI System adopts a definition of and policy governing bullying, the University will\nfollow the policy governing bullying. UIC Human Resources will update the Union every\nthree months, upon Union request, on the progress toward defining bullying and creating a\npolicy to address it through the terms of this contract.\nF. The University will take action to provide remedies when such unlawful discrimination\nand/or harassment is properly reported or discovered as provided by law, and University\npolicy. The University considers the behavior laid out in Sections A-E to be a breach of its\nstandards of conduct. The University and the Union are committed to eliminating unlawful\ndiscrimination and to that end the Union may designate two (2) members of the Union to\nmeet with the OAE for the purpose of providing input and policy recommendations once per\n3 of 30",
+      "start_idx": 6762,
+      "end_idx": 9850,
+      "metadata": {
+        "num_sentences": 19,
+        "num_words": 480,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Rights_and_Protections",
+            "subtypes": [
+              "Non-Discrimination",
+              "Anti-Harassment",
+              "Union Rights"
+            ]
+          },
+          "keywords": [
+            "discrimination",
+            "harassment",
+            "union membership",
+            "sexual harassment",
+            "bullying",
+            "OAE",
+            "protected veteran",
+            "sexual misconduct"
+          ],
+          "key_provisions": [
+            "No discrimination based on race, color, national origin, religion, sex, pregnancy, sexual orientation, gender, age, disability, marital status, order of protection status, genetic information, veteran status, ancestry, unfavorable discharge from the military, citizenship or immigration status, arrest record, or status as a protected veteran.",
+            "No discrimination against employees due to union membership or acting as a union representative.",
+            "The University and Union will not tolerate harassment.",
+            "The University and Union will not tolerate sexual harassment as defined in the University's policy.",
+            "The University and Union do not condone workplace bullying."
+          ],
+          "job_titles_mentioned": [
+            "None"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "All Employees",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the University and Union's commitment to non-discrimination, anti-harassment, and a safe work environment, prohibiting discrimination based on various protected characteristics and addressing harassment, sexual harassment, and bullying.",
+          "common_queries": [
+            "What categories are protected under the non-discrimination policy?",
+            "How is harassment defined by the University and the Union?",
+            "What is the University's policy on workplace bullying?"
+          ],
+          "related_topics": [
+            "Grievance Procedures",
+            "Disciplinary Actions",
+            "Office for Access and Equity (OAE)"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_3::0e58c79794ce"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Rights_and_Protections] [All Employees]",
+        "tf_idf_keywords": [
+          "harassment",
+          "protected veteran",
+          "sexual misconduct",
+          "bullying",
+          "OAE",
+          "discrimination",
+          "Chicago",
+          "union membership",
+          "None",
+          "sexual harassment"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_4",
+      "text": "\n\nyear at the request of the Union. Topics at this meeting may include the Gender Inclusive\nResources available at http://oae.uic.edu/resources/gender- inclusive-resources/. OAE\ninvestigates claims of discrimination and harassment in accordance with University policy,\nand applicable law.\nG. In any proceedings regarding a sexual harassment and/or discrimination complaint, an\nemployee may choose to have a Union representative serve to advise, represent, and support\nthe employee who is filing a complaint in accordance with the relevant University policies and\nthis Agreement.\nH. The University prohibits unlawful retaliation for participating in a protected activity. The\nUniversity\u2019s retaliation policy can be found at: https://oae.uic.edu/policies/prohibition-\nof-retaliation/.\nI. Supportive Measures\nEmployees who may have experienced sexual harassment or discrimination at the University\nmay request workplace supportive measures (e.g., moving office spaces, counseling,\nmodification of work schedules/assignments or restrictions on contact between the Parties).\nEmployees may submit a request for supportive measures to OAE, Campus Advocacy Network\n(CAN) or the relevant department chair, program director or unit head (collectively, the\n\u201csupervisor\u201d). The employee may choose to have a Union representative and/or CAN advocate\npresent at that meeting. No workplace supportive measure shall result in loss of pay for the\nemployee who may have experienced sexual harassment, harassment, or unlawful\ndiscrimination, except if an employee chooses to either request a reduction in work hours\nand/or to take a voluntary leave of absence and such leave is approved. Decisions regarding a\nrequest for supportive measures, pursuant to this section of the Agreement, shall be made by the\nsupervisor (where appropriate) in consultation with OAE. An employee\u2019s request for supportive\nmeasures that does not require mandatory reporting shall not result in a formal report filed to\nOAE unless requested by the employee. Requests for supportive measures will not be\nunreasonably denied. If an employee\u2019s request for supportive measures is denied, an employee\ncan request a review of the decision with OAE and have a union representative present at the\nmeeting. Decisions on supportive measures are not subject to the grievance procedure and\narbitration.\nJ. The University and the Union agree that the language of this Agreement shall be interpreted\nand applied in a manner consistent with the requirements of the Americans with Disabilities\nAct, and with applicable federal and state non-discrimination, equal opportunity and\naffirmative action laws, including those prohibiting unlawful retaliation against individuals\nfor the exercise of rights under those laws. Accordingly, the University will follow all relevant\nlaws regarding the provision of lactation facilities to employees.\nK. If an employee decides to pursue a complaint through OAE, the University shall notify the\nemployee that OAE has an investigatory role but does not represent either the complainant\nor respondent. In cases when a determination is made not to investigate, OAE shall\n4 of 30",
+      "start_idx": 9850,
+      "end_idx": 13002,
+      "metadata": {
+        "num_sentences": 21,
+        "num_words": 455,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Rights_and_Protections",
+            "subtypes": [
+              "Non-Discrimination",
+              "Sexual Harassment",
+              "Retaliation"
+            ]
+          },
+          "keywords": [
+            "sexual harassment",
+            "discrimination",
+            "retaliation",
+            "OAE",
+            "Union representative",
+            "supportive measures",
+            "ADA",
+            "lactation facilities"
+          ],
+          "key_provisions": [
+            "Employee may have a Union representative present during sexual harassment/discrimination complaint proceedings.",
+            "University prohibits unlawful retaliation.",
+            "Employees may request workplace supportive measures.",
+            "Requests for supportive measures will not be unreasonably denied.",
+            "The University will follow all relevant laws regarding the provision of lactation facilities to employees."
+          ],
+          "job_titles_mentioned": [
+            "None"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": false
+        },
+        "contract": {
+          "covered_employee_group": "All Employees",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the University's policies and procedures regarding sexual harassment, discrimination, and retaliation, including the right to union representation and the availability of supportive measures. It also addresses compliance with the Americans with Disabilities Act and lactation facility provisions.",
+          "common_queries": [
+            "What resources are available for gender inclusivity?",
+            "Can I have a union representative present during a sexual harassment investigation?",
+            "What supportive measures can I request if I experience harassment?"
+          ],
+          "related_topics": [
+            "Grievance Procedure",
+            "Disciplinary Action",
+            "Leave of Absence"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_4::4454bf9818bc"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Rights_and_Protections] [All Employees]",
+        "tf_idf_keywords": [
+          "OAE",
+          "Union representative",
+          "discrimination",
+          "Chicago",
+          "supportive measures",
+          "ADA",
+          "None",
+          "retaliation",
+          "lactation facilities",
+          "sexual harassment"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_5",
+      "text": "\n\nprovide the complainant the reason within 10 business days, excluding University-\nrecognized holidays.\nL. The University shall maintain webpages listing the all-gender bathroom locations and\nestablished lactation stations of which the University is aware during the term of this\nAgreement.\nArticle V. Diversity and Affirmative Action\nThe Parties are committed to the creation and maintenance of a diverse faculty and staff. In\nfurtherance of this goal, the University will appoint a representative recommended by the Union to\nparticipate on each campus committee on which faculty input is appropriate to advise the\nChancellor and/or Provost on diversity issues. The Union will recommend a representative\ncommitted to diversity and affirmative action, and the University will not unreasonably withhold\nacceptance of such recommendation.\nArticle VI. Compensation, Leaves and Benefits\nA. Compensation\nThe University of Illinois Chicago, as a nationally recognized research university dedicated to\nthe pursuit of excellence, recognizes that a faculty compensation program designed to reward\nmeritorious performance in teaching, research and service is required in order to recruit and\nretain distinguished faculty. In order to achieve this goal, the University and Union have agreed\nupon the terms of a faculty compensation program as set forth below:\n1. Salary Minimums, Salary Pool Increases and Professional Expense Reimbursement\na. Salary Minimums\nEffective August 16, 2022, the minimum salary for tenure system bargaining\nunit members with the rank of Assistant Professor in no event will be lower than\n$71,500; the minimum salary for tenure system bargaining unit members with\nthe rank of Associate Professor in no event will be lower than $78,650; the\nminimum salary for tenure system bargaining unit members with the rank of\nProfessor in no event will be lower than $86,515.\nAny permanent salary increases earned through award of the Teaching\nRecognition Program, or similar, shall be applied after the bargaining unit\nmember has moved to a new minimum salary.\nb. Salary Increases\n5 of 30",
+      "start_idx": 13002,
+      "end_idx": 15096,
+      "metadata": {
+        "num_sentences": 14,
+        "num_words": 315,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Compensation",
+            "subtypes": [
+              "Salary Minimums",
+              "Salary Increases"
+            ]
+          },
+          "keywords": [
+            "salary",
+            "minimum salary",
+            "compensation",
+            "faculty",
+            "salary increases",
+            "teaching recognition program",
+            "tenure system"
+          ],
+          "key_provisions": [
+            "Minimum salaries for Assistant, Associate, and Full Professors",
+            "Salary increases through Teaching Recognition Program applied after moving to a new minimum salary"
+          ],
+          "job_titles_mentioned": [
+            "Assistant Professor",
+            "Associate Professor",
+            "Professor"
+          ],
+          "wage_amounts": [
+            "$71,500",
+            "$78,650",
+            "$86,515"
+          ],
+          "percentage_increases": [],
+          "contains_wage_data": true,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty - Tenure System",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "August 16, 2022",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the minimum salaries for tenure-system faculty members (Assistant, Associate, and Full Professors) and addresses salary increases through programs like the Teaching Recognition Program at the University of Illinois Chicago.",
+          "common_queries": [
+            "What are the minimum salaries for faculty members?",
+            "How are salary increases from the Teaching Recognition Program applied?"
+          ],
+          "related_topics": [
+            "Promotion",
+            "Performance Evaluation",
+            "Merit Pay"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_5::174fd7f813d4"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Compensation] [Faculty - Tenure System]",
+        "tf_idf_keywords": [
+          "Assistant Professor",
+          "salary increases",
+          "minimum salary",
+          "compensation",
+          "Chicago",
+          "faculty",
+          "Associate Professor",
+          "salary",
+          "tenure system",
+          "Professor",
+          "teaching recognition program"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_6",
+      "text": "\n\nYear 1 (2022-2023)\nEffective August 16, 2022, the University will implement an equity adjustment\npaid as a $2,500 base salary increase, adjusted for FTE, to all bargaining unit\nmembers at the time of ratification and signature by both parties.\nEffective August 16, 2022, for the 2022-23 year, the University will implement a\nsalary increase program on the basis of merit equivalent to 3.5%.\nEffective August 16, 2022, for the 2022-23 year, each applicable college will be\nallocated an amount equal to 1% of the tenure system faculty salary base for pay\nadjustments which must be awarded to individual faculty to address\ncompression. Compression adjustments will be determined in the sole discretion\nof the dean following consultation with department heads.\nYear 2 (2023-2024)\nEffective August 16, 2023, the University will implement a salary increase\nprogram on the basis of merit equivalent to 3% or the FY 2024 campus-wide\ngeneral salary program as may be announced by the Chancellor and Provost in\nthe campus \"FY 2024 Budget and Salary Guidelines\" (in the event a general\nsalary program is implemented), whichever is greater.\nEffective August 16, 2023 for the 2023-24 year, each applicable college will be\nallocated an amount equal to 1.75% of the tenure system faculty salary base for\npay adjustments which must be awarded to individual faculty to address\ncompression and equity issues.\nCompression and equity adjustments will be determined in the sole discretion of\nthe dean following consultation with department heads.\nYear 3 (2024-2025)\nEffective August 16, 2024, the University will implement a salary increase\nprogram on the basis of merit equivalent to 2.5% or the FY 2025 campus-wide\ngeneral salary program as may be announced by the Chancellor and Provost in\nthe campus \"FY 2025 Budget and Salary Guidelines\" (in the event a general\nsalary program is implemented) whichever is greater.\nEffective August 16, 2024 for the 2024-25 year, each applicable college will be\nallocated an amount equal to 1.5% of the tenure system faculty salary base for\npay adjustments which must be awarded to individual faculty to address\ncompression and equity issues.\nCompression and equity adjustments will be determined in the sole discretion of\n6 of 30",
+      "start_idx": 15096,
+      "end_idx": 17345,
+      "metadata": {
+        "num_sentences": 10,
+        "num_words": 359,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Wage_Table",
+            "subtypes": [
+              "Merit Increase",
+              "Equity Adjustment",
+              "Compression Adjustment"
+            ]
+          },
+          "keywords": [
+            "salary increase",
+            "merit",
+            "equity adjustment",
+            "compression",
+            "faculty",
+            "base salary",
+            "FTE",
+            "college",
+            "dean",
+            "department heads"
+          ],
+          "key_provisions": [
+            "$2,500 equity adjustment in 2022-2023",
+            "3.5% merit increase in 2022-2023",
+            "1% of tenure system faculty salary base for compression adjustments in 2022-2023",
+            "3% or FY 2024 general salary program (whichever is greater) merit increase in 2023-2024",
+            "1.75% of tenure system faculty salary base for compression and equity adjustments in 2023-2024"
+          ],
+          "job_titles_mentioned": [
+            "None"
+          ],
+          "wage_amounts": [
+            "$2,500"
+          ],
+          "percentage_increases": [
+            "3.5%",
+            "3%",
+            "2.5%",
+            "1%",
+            "1.75%",
+            "1.5%"
+          ],
+          "contains_wage_data": true,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Bargaining Unit Members",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "August 16, 2022",
+            "end": "August 15, 2025"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the salary increase programs for bargaining unit members, including equity adjustments, merit increases, and compression adjustments for faculty, for the years 2022-2023, 2023-2024, and 2024-2025.",
+          "common_queries": [
+            "What is the merit increase percentage for 2023-2024?",
+            "How is the compression adjustment determined?",
+            "What was the equity adjustment amount in 2022-2023?"
+          ],
+          "related_topics": [
+            "Salary Guidelines",
+            "Merit Evaluation",
+            "Faculty Compensation"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_6::66e24df4f0cb"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Wage_Table] [Bargaining Unit Members]",
+        "tf_idf_keywords": [
+          "compression",
+          "college",
+          "department heads",
+          "merit",
+          "salary increase",
+          "dean",
+          "FTE",
+          "faculty",
+          "Chicago",
+          "None",
+          "equity adjustment",
+          "base salary"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_7",
+      "text": "\n\nthe dean following consultation with department heads.\nYear 4 (2025-2026)\nEffective August 16, 2025, the University will implement a salary increase\nprogram on the basis of merit equivalent to 3% or the FY 2026 campus-wide\ngeneral salary program as may be announced by the Chancellor and Provost in\nthe campus \"FY 2026 Budget and Salary Guidelines\" (in the event a general\nsalary program is implemented) whichever is greater.\nEffective August 16, 2025 for the 2025-26 year, each applicable college will be\nallocated an amount equal to 1.5% of the tenure system faculty salary base for\npay adjustments which must be awarded to individual faculty to address\ncompression and equity issues.\nCompression and equity adjustments will be determined in the sole discretion of\nthe dean following consultation with department heads.\nc. Application of salary increases\nSalary increases shall be applied in the following order in Year 1: promotion,\nequity adjustment paid as a $2,500 base salary increase from the Equity Pool to\nall members in the bargaining unit only at the time of ratification and signature by\nboth Parties adjusted for FTE, merit-based increases, minimum salary\nadjustments, then compression increases.\nSalary increases shall be applied in the following order in Years 2-4: promotion,\nmerit-based increases, then compression and equity increases.\nd. Professional Expense Reimbursements\nYear 1 (2022-2023)\nFunds will be allocated each year of this Agreement so that each bargaining unit\nmember shall receive up to $1,000 for expenses related only to research and/or\nteaching-related professional development, to be reimbursed in accordance with\nUniversity policy and guidelines. In the event that a bargaining unit member has\nan opportunity to travel for professional meetings/conferences, specific to their\nemployment duties, then they may be eligible for an additional $750. Pre-\napproval for the additional funding must be obtained from the Unit Executive\nOfficer prior to the event and, if approved, will be reimbursed in accordance\nwith University policy and guidelines. These funds supplement departmental\nprofessional development budgets, if any, rather than replace them.\n7 of 30",
+      "start_idx": 17345,
+      "end_idx": 19541,
+      "metadata": {
+        "num_sentences": 11,
+        "num_words": 333,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Contract_Provisions",
+            "subtypes": [
+              "Salary Increases",
+              "Professional Development",
+              "Equity Adjustments"
+            ]
+          },
+          "keywords": [
+            "salary increase",
+            "merit",
+            "compression",
+            "equity",
+            "professional development",
+            "reimbursement",
+            "budget",
+            "faculty",
+            "bargaining unit"
+          ],
+          "key_provisions": [
+            "3% merit increase or FY 2026 campus-wide general salary program (whichever is greater)",
+            "1.5% of tenure system faculty salary base for compression and equity adjustments",
+            "$1,000 for research/teaching-related professional development",
+            "Additional $750 for professional meetings/conferences (pre-approval required)"
+          ],
+          "job_titles_mentioned": [
+            "None"
+          ],
+          "wage_amounts": [
+            "$2,500"
+          ],
+          "percentage_increases": [
+            "3%",
+            "1.5%"
+          ],
+          "contains_wage_data": true,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty - Tenure System",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "August 16, 2025",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "Obtain pre-approval for additional professional development funding",
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines salary increases for tenure system faculty, including merit-based increases, compression and equity adjustments, and professional expense reimbursements. It details the percentages allocated for salary increases and the process for obtaining additional funding for professional development.",
+          "common_queries": [
+            "What is the percentage for merit-based salary increases in 2025-2026?",
+            "How much funding is available for professional development?",
+            "How are compression and equity adjustments determined?"
+          ],
+          "related_topics": [
+            "Merit Pay",
+            "Equity Pay",
+            "Professional Development Funds"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_7::e27f6fa4765f"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Contract_Provisions] [Faculty - Tenure System]",
+        "tf_idf_keywords": [
+          "compression",
+          "reimbursement",
+          "merit",
+          "salary increase",
+          "equity",
+          "faculty",
+          "Chicago",
+          "professional development",
+          "None",
+          "bargaining unit",
+          "budget"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_8",
+      "text": "\n\nYear 2 (2023-2024)\nFunds will be allocated each year of this Agreement so that each bargaining unit\nmember shall receive up to $1,200 for expenses related only to research and/or\nteaching-related professional development, to be reimbursed in accordance with\nUniversity policy and guidelines. In the event that a bargaining unit member has\nan opportunity to travel for professional meetings/conferences, specific to their\nemployment duties, then they may be eligible for an additional $900. Pre-\napproval for the additional funding must be obtained from the Unit Executive\nOfficer prior to the event and, if approved, will be reimbursed in accordance\nwith University policy and guidelines. These funds supplement departmental\nprofessional development budgets, if any, rather than replace them.\nYear 3 (2024-2025)\nFunds will be allocated each year of this Agreement so that each bargaining unit\nmember shall receive up to $1,200 for expenses related only to research and/or\nteaching-related professional development, to be reimbursed in accordance with\nUniversity policy and guidelines. In the event that a bargaining unit member has\nan opportunity to travel for professional meetings/conferences, specific to their\nemployment duties, then they may be eligible for an additional $900. Pre-\napproval for the additional funding must be obtained from the Unit Executive\nOfficer prior to the event and, if approved, will be reimbursed in accordance\nwith University policy and guidelines. These funds supplement departmental\nprofessional development budgets, if any, rather than replace them.\nYear 4 (2025-2026)\nFunds will be allocated each year of this Agreement so that each bargaining unit\nmember shall receive up to $1,200 for expenses related only to research and/or\nteaching-related professional development, to be reimbursed in accordance with\nUniversity policy and guidelines. In the event that a bargaining unit member has\nan opportunity to travel for professional meetings/conferences, specific to their\nemployment duties, then they may be eligible for an additional $900. Pre-\napproval for the additional funding must be obtained from the Unit Executive\nOfficer prior to the event and, if approved, will be reimbursed in accordance\nwith University policy and guidelines. These funds supplement departmental\nprofessional development budgets, if any, rather than replace them.\ne. Retroactivity\n(i) All Year 1 increases shall be retroactive to August 16, 2022, payable\nto members in the bargaining unit at the time of ratification and\nsignature by both parties.\n8 of 30",
+      "start_idx": 19541,
+      "end_idx": 22113,
+      "metadata": {
+        "num_sentences": 14,
+        "num_words": 385,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Benefits",
+            "subtypes": [
+              "Professional Development",
+              "Travel Reimbursement"
+            ]
+          },
+          "keywords": [
+            "professional development",
+            "research",
+            "teaching",
+            "reimbursement",
+            "travel",
+            "conferences",
+            "funding",
+            "Unit Executive Officer",
+            "pre-approval"
+          ],
+          "key_provisions": [
+            "Bargaining unit members receive up to $1,200 for research/teaching professional development.",
+            "Additional $900 available for travel to professional meetings/conferences.",
+            "Pre-approval required from Unit Executive Officer for travel funding.",
+            "Funds supplement, not replace, departmental professional development budgets."
+          ],
+          "job_titles_mentioned": [
+            "None"
+          ],
+          "wage_amounts": [
+            "$1,200",
+            "$900"
+          ],
+          "percentage_increases": [],
+          "contains_wage_data": true,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Bargaining Unit Members",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "August 16, 2022",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "Obtain pre-approval from Unit Executive Officer"
+          ]
+        },
+        "semantic": {
+          "summary": "Bargaining unit members are eligible for up to $1,200 annually for research and teaching-related professional development. An additional $900 is available for travel to professional meetings with pre-approval.",
+          "common_queries": [
+            "How much professional development funding is available to bargaining unit members?",
+            "What are the requirements for receiving the additional travel funding?",
+            "Who needs to approve the additional funding for travel?"
+          ],
+          "related_topics": [
+            "University Reimbursement Policy",
+            "Departmental Budgets",
+            "Travel Policy"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_8::8d9adf9723b8"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Benefits] [Bargaining Unit Members]",
+        "tf_idf_keywords": [
+          "research",
+          "funding",
+          "teaching",
+          "reimbursement",
+          "travel",
+          "conferences",
+          "Chicago",
+          "Unit Executive Officer",
+          "professional development",
+          "None",
+          "pre-approval"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_9",
+      "text": "\n\n(ii) The increase to professional development expense reimbursement\nfunds, as referenced above, shall apply retroactively only to expenses\nalready incurred during the 2022-23 academic year up to the date this\nAgreement is executed.\nf. Salaries of individual members of the bargaining unit as adjusted by application\nof the terms above, shall be established in accordance with campus and\napplicable academic unit policies and practices; and for those years, individual\nbargaining unit employees may receive a salary increase that is less than,\nequivalent to, or greater than, the increment set forth in the campus-wide general\nsalary program or the salary increase program established above, whichever is\napplied.\ng. Because any determination as to any salary increase is at the department\u2019s\nor unit\u2019s sole discretion, such determination shall not be grievable under\nthe Grievance and Arbitration article of this Agreement.\n2. Discretionary Salary Adjustments\nNothing in this Agreement shall preclude the University from providing salary increases\nto members of the bargaining unit in excess of the amounts specified in this Article at\nany time, provided that such increases are for the purpose of countering, matching or\nexceeding bona fide written offers from other institutions, or for adjusting for low\nsalaries, compression, equity, or other reasons in the University\u2019s discretion. Further,\nnothing in this Agreement shall preclude the University from providing one-time, non-\ncontinuing salary money for rewarding outstanding professional contributions to the\nUniversity.\n3. New Hires and Promotions\nNothing in this Agreement shall restrict or modify the University's ability to unilaterally\nestablish the salary of newly-hired faculty members. Bargaining unit members who are\npromoted: (1) within the ranks identified in the University of Illinois Statutes, as such\nStatutes may be amended from time to time (e.g., Clinical Assistant Professor, Clinical\nAssociate Professor, Clinical Professor, Research Assistant Professor, Research\nAssociate Professor, Research Professor, Teaching Assistant Professor, Teaching\nAssociate Professor, Teaching Professor) and (2) from Lecturer to Senior Lecturer and\nInstructor to Senior Instructor shall be eligible for salary increases in accordance with\ncampus policies and practices; however the increase shall not be less than 10%.\n4. Timely Payment\nThe University is committed to timely payment for work completed. At the start of\neach academic year, UIC Human Resources will send unit Human Resources staff a\nreminder that payroll loans are available to eligible bargaining unit members who will\n9 of 30",
+      "start_idx": 22113,
+      "end_idx": 24764,
+      "metadata": {
+        "num_sentences": 12,
+        "num_words": 388,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Contract_Provisions",
+            "subtypes": [
+              "Salary Adjustments",
+              "Promotions",
+              "Timely Payment"
+            ]
+          },
+          "keywords": [
+            "salary",
+            "professional development",
+            "reimbursement",
+            "grievance",
+            "discretion",
+            "new hires",
+            "promotions",
+            "timely payment",
+            "payroll loans"
+          ],
+          "key_provisions": [
+            "Professional development expense reimbursement applies retroactively to 2022-23 expenses.",
+            "Salary increases can be less than, equivalent to, or greater than the campus-wide general salary program.",
+            "Salary increase determinations are at the department's or unit's sole discretion and are not grievable.",
+            "University can provide salary increases exceeding specified amounts for countering offers, adjusting low salaries, compression, equity, or other reasons.",
+            "Promoted bargaining unit members shall be eligible for salary increases in accordance with campus policies and practices; however the increase shall not be less than 10%."
+          ],
+          "job_titles_mentioned": [
+            "Clinical Assistant Professor",
+            "Clinical Associate Professor",
+            "Clinical Professor",
+            "Research Assistant Professor",
+            "Research Associate Professor",
+            "Research Professor",
+            "Teaching Assistant Professor",
+            "Teaching Associate Professor",
+            "Teaching Professor",
+            "Lecturer",
+            "Senior Lecturer",
+            "Instructor",
+            "Senior Instructor"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [
+            "10%"
+          ],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "UIC Human Resources will send unit Human Resources staff a reminder that payroll loans are available."
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines provisions for salary adjustments, including professional development reimbursement, discretionary increases, and increases for promotions. It also addresses timely payment and the availability of payroll loans.",
+          "common_queries": [
+            "Is there retroactive reimbursement for professional development expenses?",
+            "Are salary increase determinations grievable?",
+            "What is the minimum salary increase for promoted bargaining unit members?"
+          ],
+          "related_topics": [
+            "Grievance Procedure",
+            "Salary Compression",
+            "Promotion Criteria"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_9::d116123ea3a1"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Contract_Provisions] [Faculty]",
+        "tf_idf_keywords": [
+          "Research Assistant Professor",
+          "reimbursement",
+          "discretion",
+          "Lecturer",
+          "Clinical Associate Professor",
+          "Research Professor",
+          "Clinical Professor",
+          "Teaching Assistant Professor",
+          "Teaching Associate Professor",
+          "new hires",
+          "grievance",
+          "Teaching Professor",
+          "timely payment",
+          "Clinical Assistant Professor",
+          "promotions"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_10",
+      "text": "\n\nnot be paid on the regular pay date.\nB. Leaves & Sabbaticals\n1. It is the intention of the University to continue providing all leaves and benefits as\nalready provided to the faculty at the University of Illinois such as, but not limited to,\nSabbaticals, Family Medical Leave Act of 1993 (FMLA), Educational Leave, Parental\nLeave, Bereavement Leave, Family Military Leave, Jury Duty, Sick Leave, Vacation,\nand Holidays. Faculty Affairs Policy FPPG 500 - Family Work Friendly Benefits\nNUMBER 501 (Modified Duties for Faculty Members with Life-Changing Events)\ndated December 17, 2015, is included within the terms of this paragraph. The Parties\nagree that nothing in this article is meant to limit the University's ability to amend\nand/or change leave benefits from time-to-time.\n2. Parental Leave\nBargaining unit members are eligible for paid parental leave per the University of Illinois\nParental Leave Policy as may be amended from time-to-time.\n3. Modified Duties\na. The University and Union are committed to creating a family/life-friendly\nwork environment and shall follow the UIC Modified Teaching Duties for\nFaculty Members with Life-Changing Events policy, as amended from time-\nto-time.\nb. Implementation of modified duties agreements for bargaining unit members in\nteaching intensive positions may include course load reductions, course\nreassignments, and scheduling or teaching modalities that allow flexibility and\nmore time for familial responsibilities.\nc. Bargaining unit members completing any continuous paid or unpaid leave of\nabsence before a semester concludes may be granted modified teaching duties\nstatus for the remainder of that semester.\nd. The Employer shall not unlawfully discriminate or retaliate against bargaining\nunit members who have used benefits under the Family and Medical Leave Act\nof 1993, or any other leaves provided in this Agreement, and any other leave\nprovided by the Employer, or for modified duties described in this Article.\nC. Benefits\n1. Group Health\na. Faculty are eligible for group health insurance options as provided through the\nState of Illinois Department of Central Management Services. The State of\nIllinois benefits are provided by the Group Insurance Act of 1971. These\nbenefits are subject to modification from time to time. Faculty are eligible to\n10 of 30",
+      "start_idx": 24764,
+      "end_idx": 27086,
+      "metadata": {
+        "num_sentences": 21,
+        "num_words": 357,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Benefits",
+            "subtypes": [
+              "Leave",
+              "Parental Leave",
+              "Health Insurance"
+            ]
+          },
+          "keywords": [
+            "leaves",
+            "benefits",
+            "sabbaticals",
+            "FMLA",
+            "parental leave",
+            "sick leave",
+            "vacation",
+            "holidays",
+            "group health insurance",
+            "modified duties"
+          ],
+          "key_provisions": [
+            "Eligible for paid parental leave per University of Illinois Parental Leave Policy",
+            "UIC Modified Teaching Duties for Faculty Members with Life-Changing Events policy",
+            "Faculty eligible for group health insurance through State of Illinois Department of Central Management Services",
+            "No unlawful discrimination or retaliation against bargaining unit members who have used FMLA or other leaves",
+            "Modified teaching duties may include course load reductions, course reassignments, and scheduling or teaching modalities that allow flexibility"
+          ],
+          "job_titles_mentioned": [
+            "Faculty"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the various leave benefits available to faculty, including sabbaticals, FMLA, parental leave, and sick leave. It also addresses modified teaching duties for faculty members with life-changing events and group health insurance options.",
+          "common_queries": [
+            "What types of leave are available to faculty?",
+            "What is the policy on modified teaching duties?",
+            "How do I access group health insurance?"
+          ],
+          "related_topics": [
+            "FMLA",
+            "Sick Leave",
+            "Health Insurance"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_10::6f4b6fc1dd70"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Benefits] [Faculty]",
+        "tf_idf_keywords": [
+          "parental leave",
+          "modified duties",
+          "sabbaticals",
+          "Chicago",
+          "Faculty",
+          "benefits",
+          "leaves",
+          "FMLA",
+          "vacation",
+          "sick leave",
+          "holidays",
+          "group health insurance"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_11",
+      "text": "\n\nparticipate in additional benefits programs offered by or through the University\nin accordance with the provisions of those plans, which are subject to change\nfrom time-to-time.\nb. If the health insurance premiums administered through Central Management\nServices increase by 50% or more during the term of this Agreement (including\nincremental increases that total 50% or more as measured by the premiums paid\nfor the managed care plan by an employee with no dependents and an annual\nsalary of $75,000), Article VI, Section A.1. of this Agreement shall be reopened\nto discuss the impact on bargaining unit members.\n2. 457 Deferred Compensation\nThe State University Retirement System (SURS) 457 Deferred Compensation Plan (also\nknown as the SURS DCP) and the State Deferred Compensation 457 Plan are available\nto all actively contributing SURS members in the bargaining unit, whether they are in\nany of the SURS core plans: the Traditional Pension Plan, Portable Pension Plan and\nRetirement Savings Plan (RSP). These plans allow employees to make voluntary\ncontributions, on a pre-tax basis, for their own retirement savings.\nArticle VII. Institutional Commitments\nA. A well supported working environment promotes effective and sustainable teaching, learning,\nservice, and research. Therefore, within the limits of available resources and within the\nUniversity's discretion, the University acknowledges its commitment to provide libraries,\ntechnology, classroom assignments, and faculty support responsive to the needs of students and\nfaculty to meet the research mission and instructional/pedagogical needs of the departments,\nconsistent with high quality research and teaching at a nationally recognized research\nuniversity.\nB. When faculty are required to travel on approved University business as approved in advance by\ndepartment management or, in some cases, Dean\u2019s office certifying funding availability, the\nUniversity will reimburse for such travel following standard operating procedures found in the\nUniversity's Business and Financial Policies and Procedures. Travel for University related\nbusiness should be conducted as economically as possible.\nC. Faculty performing employment duties are provided legal coverage as set forth in and under the\nterms of the University of Illinois Liability Self-Insurance Plan, as that plan may be amended\nfrom time to time. The University Liability Self-Insurance Plan provides coverage for\nemployees acting on behalf of the university and working within the scope of their duties\nassigned to them by the University, subject to all the terms and conditions of the Plan which is\navailable at the following link:\n11 of 30",
+      "start_idx": 27086,
+      "end_idx": 29754,
+      "metadata": {
+        "num_sentences": 16,
+        "num_words": 396,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Benefits",
+            "subtypes": [
+              "Health Insurance",
+              "Retirement Plans",
+              "Legal Coverage"
+            ]
+          },
+          "keywords": [
+            "health insurance",
+            "premiums",
+            "deferred compensation",
+            "retirement",
+            "legal coverage",
+            "travel reimbursement",
+            "liability insurance"
+          ],
+          "key_provisions": [
+            "Health insurance premium increases of 50% or more trigger reopening of Article VI, Section A.1.",
+            "SURS 457 Deferred Compensation Plan and State Deferred Compensation 457 Plan available to all actively contributing SURS members.",
+            "University will reimburse for approved travel expenses.",
+            "Faculty performing employment duties are provided legal coverage under the University of Illinois Liability Self-Insurance Plan."
+          ],
+          "job_titles_mentioned": [
+            "Faculty"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [
+            "50%"
+          ],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty",
+          "union_name": "Not Specified",
+          "campus_location": "All Campuses",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines benefits including health insurance premium adjustments, deferred compensation plan availability, travel reimbursement policies, and legal coverage for faculty. It also commits the University to providing a well-supported working environment.",
+          "common_queries": [
+            "What happens if health insurance premiums increase significantly?",
+            "What retirement savings plans are available to faculty?",
+            "What travel expenses are reimbursable?"
+          ],
+          "related_topics": [
+            "Retirement Savings",
+            "Travel Policy",
+            "Liability Insurance"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_11::b08bb94b5863"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Benefits] [Faculty]",
+        "tf_idf_keywords": [
+          "liability insurance",
+          "All Campuses",
+          "premiums",
+          "travel reimbursement",
+          "health insurance",
+          "Faculty",
+          "deferred compensation",
+          "retirement",
+          "legal coverage"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_12",
+      "text": "\n\nhttps://www.treasury.uillinois.edu/userfiles/Servers/Server_338/file/riskUnit/SelfInsurancePl\nan.pdf and Risk Management contacts are available at:\nhttps://www.treasury.uillinois.edu/risk_management/whotoask_risk/.\nD. Faculty may request health-related accommodations under the Americans with Disabilities\nAct (ADA) or otherwise by contacting the Office of Access and Equity to request such\naccommodations following the prevailing standard operating procedures.\nE. Mental Health Resources\nThe University provides access to on-campus and off-campus mental health services for faculty\nand staff, which can be accessed through the following links:\n\u2022 https:// www.hr.uillinois.edu/benefits/mental_health_and_self_care\n\u2022 https://www.hr.uillinois.edu/userfiles/Servers/Server_4208/file/Benefits/Wel\nlness/SEGIP_MentalHealthBenefits_FY2023.pdf\n\u2022 https://www.hr.uillinois.edu/cms/One.aspx\n\u2022 https://uofi.app.box.com/s/z54ms8nl194wfyj3771avk3u9s0at3tx\nF. Technology and Classroom Support\n1. The University will provide each bargaining unit position a new computer not to\nexceed $1,600 (plus the cost of a four-year extended warranty) to be chosen from a set\nof available and supported configurations from the campus office of Technology\nSolutions or Learning Technology Support (LTS). If a bargaining unit member\u2019s work\nrequires a computer that exceeds this cost limit, they can appeal for a larger computer\nallowance. This program for provision of new computers will extend through August\n15, 2026, and computers will be replaced if an existing computer is more than four\nyears old during the term of this Collective Bargaining Agreement. The University\nwill provide hardware support during the time the computer is covered by warranty and\nis assigned to the original bargaining unit position. In accord with the State of Illinois\nand University procurement rules, the assigned computer remains property of the\nUniversity and assigned to the department. Computer use is subject to the applicable\nAcceptable Usage Policy promulgated by Technology Solutions, as such policy may be\namended from time to time. The process for replacing computers that will be more\nthan four years old during the following academic year will be initiated every year of\nthis agreement on or before January 15th, and computers should be received no later\nthan August 1st of each year.\n2. The University shall provide classroom support during all hours in which courses are\nscheduled, including access to printers and technology support for classrooms with\nsufficient on-campus staff to facilitate timely support. This support shall commence at\nleast a half hour before courses are scheduled. Each classroom should display adequate\nsignage directing to the appropriate website to inform faculty of the appropriate office\ncontact information in the event of a problem with the classroom,\n12 of 30",
+      "start_idx": 29754,
+      "end_idx": 32618,
+      "metadata": {
+        "num_sentences": 14,
+        "num_words": 383,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Benefits",
+            "subtypes": [
+              "Mental Health Resources",
+              "Technology Support",
+              "Disability Accommodations"
+            ]
+          },
+          "keywords": [
+            "mental health",
+            "accommodations",
+            "ADA",
+            "technology",
+            "computers",
+            "classroom support",
+            "warranty",
+            "hardware support"
+          ],
+          "key_provisions": [
+            "Faculty may request health-related accommodations under ADA.",
+            "University provides access to mental health services.",
+            "Each bargaining unit position gets a new computer up to $1,600 (plus warranty).",
+            "Computer replacement program extends through August 15, 2026.",
+            "Classroom support provided during all scheduled course hours."
+          ],
+          "job_titles_mentioned": [
+            "None"
+          ],
+          "wage_amounts": [
+            "$1,600"
+          ],
+          "percentage_increases": [],
+          "contains_wage_data": true,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Bargaining Unit Positions",
+          "union_name": "Not Specified",
+          "campus_location": "All Campuses",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "August 15, 2026"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "Request health-related accommodations from the Office of Access and Equity",
+            "Appeal for a larger computer allowance if needed",
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines benefits related to health accommodations, mental health resources, technology support including a computer replacement program, and classroom support provided by the University.",
+          "common_queries": [
+            "How can faculty request health-related accommodations under the ADA?",
+            "What mental health resources are available to faculty and staff?",
+            "What are the specifications for the computer replacement program?"
+          ],
+          "related_topics": [
+            "Disability Leave",
+            "Employee Assistance Program",
+            "Technology Acceptable Use Policy"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_12::5296de7bdca8"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Benefits] [Bargaining Unit Positions]",
+        "tf_idf_keywords": [
+          "warranty",
+          "All Campuses",
+          "computers",
+          "accommodations",
+          "mental health",
+          "None",
+          "ADA",
+          "technology",
+          "hardware support",
+          "classroom support"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_13",
+      "text": "\n\nincluding temperature issues and technology problems.\nG. Mentoring\nColleges/Schools shall develop and implement a faculty mentoring program in accordance with\nUIC campus policies.\nH. Intellectual Property\nIn accordance with the University of Illinois Statutes and General Rules Concerning\nUniversity Organization and Procedures, faculty members shall retain ownership rights to\ntraditional academic copyrightable work.\nI. The University will provide assistance, cooperation, and financial support to units with the\nemployment-based immigration benefits as may be available. Fees such as those\nassociated with adjustment applications, EADs, and non-employment-based visa\napplications will continue to be the responsibility of the international faculty member due\nto the personal nature of the process.\nJ. Moving expenses for new hires\n1. All newly hired bargaining unit members may be eligible for moving relocation\nexpenses as provided in the OBFS Relocation Assistance Policy upon the express\napproval of the college dean and must be documented in a signed employment offer\nletter.\n2. All bargaining unit members who receive relocation assistance shall be given the option\nof having their moving expenses paid either as a one-time moving payment to the\nemployee or as a reimbursement for expenses incurred during the relocation process.\nBoth forms of relocation assistance include the option to process direct payments to\nsystem-contracted moving vendors.\nK. Gender Inclusive Resources\n1. The University shall maintain an on-line campus map and room signage listing the all-\ngender bathroom locations and established lactation stations of which the University is\naware during the term of this Agreement.\n2. In addition to established Lactation Rooms, upon request the University shall provide\nprivate space for nursing and/or expressing and storing milk.\n3. The University shall provide additional centrally-located all-gender restrooms. All\nsingle-occupancy restrooms on campus shall be designated as all-gender restrooms.\nNew or renovated all-gender restrooms shall be ADA compliant.\n13 of 30",
+      "start_idx": 32618,
+      "end_idx": 34715,
+      "metadata": {
+        "num_sentences": 21,
+        "num_words": 300,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Employment_Terms",
+            "subtypes": [
+              "Hiring",
+              "Relocation",
+              "Intellectual Property",
+              "Immigration"
+            ]
+          },
+          "keywords": [
+            "mentoring",
+            "intellectual property",
+            "immigration",
+            "moving expenses",
+            "relocation",
+            "gender inclusive",
+            "all-gender restrooms",
+            "lactation stations"
+          ],
+          "key_provisions": [
+            "Faculty retain ownership of academic copyrightable work",
+            "University provides immigration assistance",
+            "Moving expenses for new hires may be eligible",
+            "University maintains on-line campus map of all-gender bathrooms and lactation stations",
+            "University provides private space for nursing/expressing milk"
+          ],
+          "job_titles_mentioned": [
+            "faculty members",
+            "None"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines faculty mentoring programs, intellectual property rights, immigration assistance, moving expense eligibility for new hires, and gender inclusive resources such as all-gender restrooms and lactation stations.",
+          "common_queries": [
+            "What are the university's policies on faculty mentoring?",
+            "Who owns the copyright to academic work created by faculty?",
+            "What relocation assistance is available for new faculty hires?"
+          ],
+          "related_topics": [
+            "Immigration Policies",
+            "Faculty Handbook",
+            "University Policies"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_13::8946a60d80d3"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Employment_Terms] [Faculty]",
+        "tf_idf_keywords": [
+          "relocation",
+          "immigration",
+          "gender inclusive",
+          "mentoring",
+          "lactation stations",
+          "faculty members",
+          "Chicago",
+          "all-gender restrooms",
+          "intellectual property",
+          "None",
+          "moving expenses"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_14",
+      "text": "\n\na. All-gender restrooms shall be accessible to people of all gender identities for use\nwithout questioning or assistance, unless desired, and shall be equipped with all\nnecessary supplies, including menstrual supplies.\nb. Any employee or student who uses a building that currently does not have an all-\ngender restroom may make a request to the Office of the Vice Chancellor for\nAdministrative Services that one be provided. The University shall investigate\nthe need for an all-gender restroom and provide a written determination within\nsix (6) months.\nArticle VIII. Union Membership and Activity\nA. Each bargaining unit employee may make their own personal decisions with respect to the\nUnion or other employee organization membership without intimidation or coercion. There\nwill be no discrimination against any employee by the Union or the University because an\nemployee chooses not to become a member of the Union or because the employee chooses to\nbecome a member of the Union and/or acts as a representative of the Union or its members or\nother employees pursuant to this Agreement.\nB. The Union will advise the University in writing of all stewards and alternates who have been\ndesignated by the Union.\nC. The Union shall have the right to access meeting room space and the right to access all\nvisual and electronic communications methods for the purpose of distribution of\ninformation, subject to the same policies established for other faculty and staff\norganizations recognized by the University.\nD. The University will provide the Union employee data pertaining to current status (initial\nappointments, reappointments, promotions, suspensions, terminations, salaries, leave status,\nuniversity email address, and change of membership) of all members of the bargaining unit.\nThese data shall be provided on the 16th day of each month, whenever possible, but no later\nthan five (5) days after the 16th of each month.\nE. During the campus wide orientation event for new faculty, the Union shall be allowed to staff\na table, placed in a visible and accessible location, for the purpose of speaking with new\nfaculty and distributing literature, and the Union shall be afforded fifteen (15) minutes to\npresent to the new faculty.\nF. Local representatives, officers and Union staff shall have reasonable access to the\npremises of the University, as permitted by law.\n14 of 30",
+      "start_idx": 34715,
+      "end_idx": 37095,
+      "metadata": {
+        "num_sentences": 16,
+        "num_words": 379,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Contract_Provisions",
+            "subtypes": [
+              "Union Rights",
+              "Workplace Access",
+              "Employee Data"
+            ]
+          },
+          "keywords": [
+            "all-gender restrooms",
+            "union membership",
+            "union activity",
+            "discrimination",
+            "stewards",
+            "communications",
+            "employee data",
+            "orientation",
+            "access to premises"
+          ],
+          "key_provisions": [
+            "All-gender restrooms accessible to all",
+            "Request for all-gender restroom",
+            "No discrimination based on union membership",
+            "Union access to meeting rooms and communications",
+            "University provides union employee data"
+          ],
+          "job_titles_mentioned": [
+            "None"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Bargaining Unit Employees",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "Request all-gender restroom",
+            "University provides employee data",
+            "Union advises University of stewards"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines provisions for all-gender restrooms, union membership rights, access to university resources for the union, and the provision of employee data to the union by the University.",
+          "common_queries": [
+            "How can I request an all-gender restroom in my building?",
+            "What data does the University provide to the Union about bargaining unit employees?",
+            "What rights does the Union have regarding access to campus facilities and communication channels?"
+          ],
+          "related_topics": [
+            "Non-Discrimination Policies",
+            "Union Representation",
+            "Employee Privacy"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_14::b66ed191bd19"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Contract_Provisions] [Bargaining Unit Employees]",
+        "tf_idf_keywords": [
+          "orientation",
+          "union activity",
+          "communications",
+          "access to premises",
+          "discrimination",
+          "employee data",
+          "all-gender restrooms",
+          "union membership",
+          "Chicago",
+          "None",
+          "stewards"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_15",
+      "text": "\n\nG. Dues Deduction\n1. Upon receipt of a written and signed authorization card of an employee, the\nUniversity shall deduct the amount of Union dues set forth in such card and any\nauthorized increase therein, and shall remit such deductions to the Union at the\naddress designated by the Union in accordance with the laws of the State of Illinois.\nThe Union shall advise the University, in writing, at least 30 days prior to the\neffective date of any changes in dues rates.\n2. The University will acknowledge receipt of new written and signed dues deduction\nauthorization cards within seventeen (17) days of their physical receipt by University\nPayroll and Benefits (UPB).\n3. The University will process written and signed dues deduction authorization cards\nsubmitted for bargaining unit employees as soon as reasonably practicable after their\nreceipt by the UPB office. To provide sufficient time for UPB to process dues\ndeduction authorization cards, such cards must be submitted at least seven (7)\nbusiness days prior to the calculation processing date, i.e., the date on which UPB\nbegins the payroll calculation process for University employees who are being paid\non a monthly basis.\n4. The University will send payment to the Union for the total amount deducted with a\nlist identifying the amount deducted from each individual electing to have this\ndeduction made from their paycheck, the type of deduction, and the amount\ndeducted within ten (10) working days of the deduction being made.\n5. In the event the Union becomes aware that an employee no longer in the bargaining\nunit has had dues withheld, the Union will send written notification (email is\npreferred) to the University asking that the employee be refunded. The written\nnotification will include the employee\u2019s name, UIN and the dollar amount to refund.\nThe University will complete a payroll adjustment within 30 days of receipt of the\nnotification and refund the employee. The University will then reduce the remission\nof dues withholding owed to the Union by the same amount of the refund on a\nsubsequent payment of dues withholding to the Union.\n6. Nothing contained herein shall require the University to take action to collect dues\nfrom any employee in any given pay period except to the extent that such\nemployee earns wages from the University in that period.\n7. The University shall take such steps as may be required to accomplish any wage\nwithholding authorized or required by Section G and shall do such things as are\nnecessary to cause said withholding to be remitted to the Union within thirty (30)\ncalendar days after the date of withholding, provided that nothing contained in this\nArticle shall require the University to make any withholding unless and until the\nUnion has notified the University of the address to which the amount so withheld\n15 of 30",
+      "start_idx": 37095,
+      "end_idx": 39930,
+      "metadata": {
+        "num_sentences": 19,
+        "num_words": 470,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Administrative",
+            "subtypes": [
+              "Union Dues",
+              "Payroll Deductions"
+            ]
+          },
+          "keywords": [
+            "dues deduction",
+            "union dues",
+            "authorization card",
+            "payroll",
+            "UPB",
+            "refund",
+            "withholding"
+          ],
+          "key_provisions": [
+            "University deducts union dues upon written authorization.",
+            "Union must provide 30 days notice for dues rate changes.",
+            "University acknowledges new authorization cards within 17 days.",
+            "Refunds for incorrect deductions are processed within 30 days.",
+            "Payment sent to union within 10 working days of deduction."
+          ],
+          "job_titles_mentioned": [
+            "None"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Bargaining unit employees",
+          "union_name": "Not Specified",
+          "campus_location": "Not Specified",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "Submit written authorization card",
+            "Union provides 30 days notice of dues changes",
+            "University processes deductions"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the process for union dues deduction, including authorization, remittance, and refunds. It specifies timelines for processing and notifications related to dues changes and errors.",
+          "common_queries": [
+            "How do I authorize union dues deduction?",
+            "How much notice does the union need to give for dues changes?",
+            "What happens if dues are incorrectly deducted?"
+          ],
+          "related_topics": [
+            "Union Membership",
+            "Payroll Deductions",
+            "Wage Withholding"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_15::372fa796ac21"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Administrative] [Bargaining unit employees]",
+        "tf_idf_keywords": [
+          "authorization card",
+          "withholding",
+          "refund",
+          "dues deduction",
+          "UPB",
+          "None",
+          "union dues",
+          "payroll"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_16",
+      "text": "\n\nshould be sent and has certified the amount of dues to be withheld, both within\nsufficient time to permit the University to carry out its obligation to so withhold. The\namount withheld shall not change until the Union notifies the University that\ndifferent dues amounts should be collected.\nH. The Union shall indemnify and hold the University, and its employees and agents,\nharmless against any claim, demand, suit, cost, expense, or any other form of liability,\nincluding attorney\u2019s fees and costs, arising from or incurred as a result of any act taken or\nnot taken by the University, its members, officers, agents, employees or representatives, in\ncomplying with or carrying out the provisions of this Article. The University shall\nimmediately inform the Union of any appeals or legal action regarding this Article.\nI. Upon written request from a bargaining unit faculty member on a form provided by the\nUnion and approved by the University, the bargaining unit faculty member may have\ncontributions made toward the Committee on Political Education (COPE) deducted from\ntheir paycheck.\nJ. The University shall grant release time for Union officers for business related to the Union\u2019s\nrole as joint administrator of the Collective Bargaining Agreement. The Union President\nand Chief Steward shall each receive a reduction of one course or other equivalent\nworkload reduction per academic year funded by the Union. For this release time, the\nUnion shall pay the University the standard cost of hiring two instructors. The standard cost\nof adjunct instructors is determined by the home academic units of the Union President and\nChief Steward and this cost may differ across academic units.\nSubject to the terms of Article VIII.J, the course buyout for Year 1 of the CBA may be used in\nany subsequent year of the CBA in addition to the course buyout provided for that particular\nyear.\nArticle IX. Appointment, Non-Reappointment, Promotion and Tenure\nA. Appointment\n1. All initial tenure track faculty appointments for more than fifty percent (50%) of full-\ntime service are made by the Board of Trustees upon an advisory vote of the faculty in\nthe relevant academic unit and recommendation of the campus Chancellor/Vice\nPresident and President.\n2. An appointee receiving a first contract for more than (50%) of full time service at the\nUniversity as assistant professor enters a probationary period not to exceed seven\nacademic years of service. By special written agreement between the appointee, the\nunit administrator and campus Chancellor/Vice President, the appointee may be granted\na one year interruption of the probationary period before the year in which a decision\n16 of 30",
+      "start_idx": 39930,
+      "end_idx": 42614,
+      "metadata": {
+        "num_sentences": 19,
+        "num_words": 431,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Administrative",
+            "subtypes": [
+              "Union Dues",
+              "Release Time",
+              "Appointments"
+            ]
+          },
+          "keywords": [
+            "Union dues",
+            "COPE",
+            "Release time",
+            "Union officers",
+            "Faculty appointments",
+            "Probationary period",
+            "Board of Trustees"
+          ],
+          "key_provisions": [
+            "Union to indemnify University for dues-related claims",
+            "COPE contributions deducted upon request",
+            "Release time for Union President and Chief Steward",
+            "Initial tenure track faculty appointments by Board of Trustees",
+            "Assistant professor probationary period not to exceed seven years"
+          ],
+          "job_titles_mentioned": [
+            "Faculty member",
+            "Union President",
+            "Chief Steward",
+            "Assistant Professor",
+            "Chancellor",
+            "Vice President"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty - Tenure System",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "Union to notify University of dues changes",
+            "Faculty member submits written request for COPE deduction",
+            "Union pays for release time instructors"
+          ]
+        },
+        "semantic": {
+          "summary": "This section covers union dues deductions, political contributions, release time for union officers, and faculty appointments including probationary periods. It also outlines the union's responsibility to indemnify the university against claims related to dues deductions.",
+          "common_queries": [
+            "How are union dues deducted from paychecks?",
+            "How can faculty contribute to COPE through payroll deduction?",
+            "What release time is granted to union officers?"
+          ],
+          "related_topics": [
+            "Union Membership",
+            "Faculty Promotion",
+            "Collective Bargaining Agreement"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_16::54f03059a736"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Administrative] [Faculty - Tenure System]",
+        "tf_idf_keywords": [
+          "Chancellor",
+          "Union dues",
+          "Faculty member",
+          "Assistant Professor",
+          "Probationary period",
+          "Release time",
+          "Chief Steward",
+          "Chicago",
+          "Board of Trustees",
+          "Union President",
+          "Vice President",
+          "COPE",
+          "Faculty appointments",
+          "Union officers"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_17",
+      "text": "\n\non the appointment to indefinite tenure is expected to be made pursuant to the policies\non Automatic and Approved Tenure Hold and Tenure Rollback. Ordinarily no more\nthan two such interruptions will be granted.\n3. An appointment as professor or associate professor shall be for an indefinite term except\nthat as described in campus policies on Q appointments or visiting appointments in\nwhich first appointments or temporary appointments may be for a shorter period of time.\nB. Reappointment\n1. Like initial appointments, tenure track faculty reappointments for more than fifty\npercent (50%) of full time service are made by the Board of Trustees upon\nrecommendation of the campus Chancellor/Vice President and the President.\n2. At any time except during the last year of the probationary period, an assistant\nprofessor on a definite-term appointment may be given written notice of non-\nreappointment. Except in the case of an assistant professor who is in the first year of\nacademic service at this University, (a) written notice of non-reappointment shall be\ngiven not less than twelve months before the expiration of the appointment; or (b) if\ngiven less than twelve months before the expiration of the appointment, written notice\nof non-reappointment shall be accompanied by an offer from the Board of Trustees of a\nterminal contract for one additional year of academic service. In the case of an assistant\nprofessor on a definite-term appointment who is in the first year of academic service at\nthis University, written notice of non-reappointment shall be given not later than March\n1 and need not be accompanied by an offer of a terminal contract; if written notice of\nnon-reappointment is given after March 1, it shall be accompanied by an offer from the\nBoard of Trustees of a terminal contract for one additional year of service. Such non-\nreappointment is not subject to the grievance and arbitration procedure of this\nagreement.\nC. Promotion and Tenure\n1. Only the Board of Trustees may promote or award tenure to tenure track faculty.\nTenure track faculty members attain promotion and tenure in accordance with\nUniversity of Illinois Statutes, The General Rules Concerning University Organization\nand related UIC campus policies such as promotion and tenure guidelines, as those\ndocuments may be amended.\n2. Each administration representative who is directly involved in making decisions\nregarding promotion and/or tenure of tenure track faculty is encouraged to make a\nseparate and independent evaluation of the candidate and their credentials.\n3. Decisions of the University relating to appointment, reappointment, promotion and\ntenure will be made consistent with the University of Illinois Statutes, The General\nRules Concerning University Organization, and related UIC campus policies, as those\n17 of 30",
+      "start_idx": 42614,
+      "end_idx": 45437,
+      "metadata": {
+        "num_sentences": 18,
+        "num_words": 443,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Employment_Terms",
+            "subtypes": [
+              "Appointments",
+              "Reappointment",
+              "Promotion and Tenure"
+            ]
+          },
+          "keywords": [
+            "tenure",
+            "promotion",
+            "reappointment",
+            "faculty",
+            "assistant professor",
+            "Board of Trustees",
+            "probationary period",
+            "non-reappointment",
+            "academic service"
+          ],
+          "key_provisions": [
+            "Written notice of non-reappointment required for assistant professors",
+            "Terminal contract offered if non-reappointment notice is late",
+            "Board of Trustees approves promotion and tenure",
+            "Promotion and tenure decisions based on University of Illinois Statutes"
+          ],
+          "job_titles_mentioned": [
+            "professor",
+            "associate professor",
+            "assistant professor"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty - Tenure System",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "Provide written notice of non-reappointment",
+            "Offer terminal contract in certain cases",
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the policies and procedures related to faculty appointments, reappointments, promotion, and tenure at UIC, including notice requirements for non-reappointment and the role of the Board of Trustees in promotion and tenure decisions.",
+          "common_queries": [
+            "What is the notice period for non-reappointment of an assistant professor?",
+            "Who approves promotion and tenure for faculty?",
+            "What documents govern promotion and tenure decisions?"
+          ],
+          "related_topics": [
+            "University of Illinois Statutes",
+            "Grievance Procedure",
+            "Probationary Period"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_17::3f7b8695504a"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Employment_Terms] [Faculty - Tenure System]",
+        "tf_idf_keywords": [
+          "non-reappointment",
+          "professor",
+          "assistant professor",
+          "probationary period",
+          "academic service",
+          "tenure",
+          "faculty",
+          "associate professor",
+          "Chicago",
+          "reappointment",
+          "Board of Trustees",
+          "promotion"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_18",
+      "text": "\n\ndocuments may be amended from time to time. Disputes a faculty member or the Union\nmay have relating to appointment, reappointment, promotion and tenure shall be\nhandled under the University of Illinois Statutes and The General Rules Concerning\nUniversity Organization and are not subject to the Grievance and Arbitration Article\nXVIII of this Agreement.\nD. Evaluation\n1. The University reaffirms the objective of its Annual Evaluation of Faculty at UIC\nPolicy (FPPG 700), as affirmed by the UIC Senate and which currently states that \u201cthe\nperformance of all faculty at UIC with at least fifty percent (50%) appointments shall be\nevaluated annually through a formal procedure that is open and equitable. The purpose\nof the annual evaluation is to recognize and record the accomplishments of each\nmember and to make judgments regarding the significance of these accomplishments,\nwhich judgments shall form part of the basis for assigning salary increases,\nrecommending promotion, and the awarding of tenure.\u201d\n2. Student evaluation data shall not be considered in isolation to make decisions related to\nthe renewal of employment, promotion cases, or the determination of merit raises.\nE. Procedures for Reduction in Force, Proposed Discontinuance of Programs or Departments\nIn the event of discontinuance of admission to a program or department, the University will treat\nthe discontinuance as it would the elimination of a program or department.\nArticle X. Academic Freedom\nA. It is the policy of the University to maintain and encourage full freedom within the law of\ninquiry, discourse, teaching, research, and publication and to protect any member of the\nbargaining unit against influences, from within or without the University, which would restrict\nthe member\u2019s exercise of these freedoms in the member\u2019s area of scholarly research and\ninterest.\nB. As a citizen, a faculty member may exercise the same freedoms as other citizens without\ninstitutional censorship or discipline. A faculty member should be mindful, however, that\naccuracy, forthrightness, and dignity befit association with the University and a person of\nlearning, and that the public may judge that person\u2019s profession and the University by the\nindividual\u2019s conduct and utterances.\nC. A faculty member who believes that they do not enjoy the academic freedom which is the\npolicy of the University to maintain and encourage shall be entitled to a hearing on written\nrequest before the Committee on Academic Freedom and Tenure of the campus Senate.\nSuch hearing shall be conducted in accordance with established rules of procedure. The\nCommittee shall make findings of facts and recommendations to the President and, at its\n18 of 30",
+      "start_idx": 45437,
+      "end_idx": 48138,
+      "metadata": {
+        "num_sentences": 16,
+        "num_words": 422,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Employment_Terms",
+            "subtypes": [
+              "Faculty Evaluation",
+              "Reduction in Force",
+              "Academic Freedom"
+            ]
+          },
+          "keywords": [
+            "faculty",
+            "evaluation",
+            "promotion",
+            "tenure",
+            "academic freedom",
+            "reduction in force",
+            "grievance",
+            "arbitration",
+            "programs",
+            "departments"
+          ],
+          "key_provisions": [
+            "Annual evaluation of faculty at UIC",
+            "Student evaluation data cannot be used in isolation for employment decisions",
+            "Discontinuance of admission to a program treated as elimination of program",
+            "University policy to maintain academic freedom",
+            "Faculty entitled to hearing on academic freedom before Senate Committee"
+          ],
+          "job_titles_mentioned": [
+            "Faculty"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "Submit written request for hearing on academic freedom"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the policies and procedures related to faculty evaluation, reduction in force, and academic freedom at UIC. It specifies that disputes related to appointment, reappointment, promotion, and tenure are not subject to the grievance and arbitration process.",
+          "common_queries": [
+            "How are faculty members evaluated at UIC?",
+            "What are the procedures for reduction in force or discontinuance of programs?",
+            "What are the rights of faculty members regarding academic freedom?"
+          ],
+          "related_topics": [
+            "Grievance Procedures",
+            "Tenure Process",
+            "Faculty Rights"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_18::cb6d5ba2d8b4"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Employment_Terms] [Faculty]",
+        "tf_idf_keywords": [
+          "evaluation",
+          "academic freedom",
+          "programs",
+          "reduction in force",
+          "tenure",
+          "faculty",
+          "grievance",
+          "Faculty",
+          "Chicago",
+          "arbitration",
+          "departments",
+          "promotion"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_19",
+      "text": "\n\ndiscretion, may make an appropriate report to the Senate. The several committees may\nfrom time to time establish their own rules of procedure.\nD. Any substantive dispute under this Article shall be resolved under Article X, Section 2\n(d), of the University of Illinois Statutes.\nE. Any procedural dispute under this Article under the control of a Party to this Agreement\nshall be resolved under the Grievance and Arbitration procedure in this Agreement, and any\nsuch grievance decision thereunder shall be limited to providing a remedy correcting a\nprocess error.\nArticle XI. Governance\nA. The Union retains the exclusive right to negotiate and reach agreement on wages, hours, and\nterms and conditions of employment for the members of the bargaining unit. The Parties to this\nAgreement recognize and support the role of the UIC Senate as established by the University of\nIllinois Statutes such as its general responsibilities in areas including but not limited to: (a)\ncurriculum policy and curricular structure; (b) requirements for degrees and granting of\ndegrees; (c) policies for recruitment, admission and retention of students; (d) academic policies\nrelating to students; (e) reviewing and proposing changes to the Statutes; and (f) academic\nfreedom. The above list of Senate responsibilities is not inclusive of the Senate\u2019s full role as\nprovided in the University of Illinois Statutes and is not intended to expand or limit that role.\nB. Once a semester at the Union\u2019s request, the Union will meet with the Chancellor, the Vice\nChancellor for Health Affairs, Chancellor and/or Provost. Fourteen (14) days prior to such\nmeeting the Union will provide an agenda of issues it wishes to discuss.\nC. The Union may in writing request, and the University will provide, information relating to\nbudget and planning matters as allowed by law.\nD. This Agreement is not intended to expand or limit the faculty role in governance as\nprovided in the University of Illinois Statutes. No faculty member will be penalized for\nlegitimate participation in university governance.\nE. As provided in Article II.3.b of the University of Illinois Statutes as they may be amended\nfrom time to time, \u201cAs the responsible body in the teaching, research, and scholarly activities\nof the University of Illinois System, the faculty has inherent interests and rights in academic\npolicy and governance. As such, faculty members are encouraged to consider, review,\nanalyze, critique, discuss, address, and debate academic policy and governance.\u201d\nF. All full-time bargaining unit members shall have the opportunity to participate in the system\nof shared governance of the University as defined by the University of Illinois Statutes as\nthey may be amended from time to time. All units and colleges shall update their bylaws\nto define the shared governance responsibilities of bargaining unit members in all ranks\n19 of 30",
+      "start_idx": 48138,
+      "end_idx": 51035,
+      "metadata": {
+        "num_sentences": 18,
+        "num_words": 460,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Rights_and_Protections",
+            "subtypes": [
+              "Academic Freedom",
+              "Union Rights",
+              "Governance"
+            ]
+          },
+          "keywords": [
+            "governance",
+            "union",
+            "Senate",
+            "University of Illinois Statutes",
+            "academic freedom",
+            "bargaining unit",
+            "dispute resolution",
+            "grievance",
+            "arbitration"
+          ],
+          "key_provisions": [
+            "Union retains exclusive right to negotiate wages, hours, and terms and conditions of employment",
+            "Faculty encouraged to participate in academic policy and governance",
+            "Full-time bargaining unit members can participate in shared governance",
+            "Substantive disputes resolved under Article X, Section 2(d) of University Statutes",
+            "Procedural disputes resolved under Grievance and Arbitration procedure"
+          ],
+          "job_titles_mentioned": [
+            "None"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Full-time bargaining unit members",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the union's rights to negotiate terms of employment, supports the role of the UIC Senate in academic matters, and encourages faculty participation in university governance. It also details dispute resolution processes for substantive and procedural issues.",
+          "common_queries": [
+            "What are the union's rights regarding negotiation of employment terms?",
+            "How are substantive disputes related to this article resolved?",
+            "How can bargaining unit members participate in shared governance?"
+          ],
+          "related_topics": [
+            "Grievance Procedure",
+            "University Statutes",
+            "Academic Policy"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_19::a53af43d3b9f"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Rights_and_Protections] [Full-time bargaining unit members]",
+        "tf_idf_keywords": [
+          "academic freedom",
+          "Senate",
+          "grievance",
+          "Chicago",
+          "University of Illinois Statutes",
+          "union",
+          "arbitration",
+          "None",
+          "bargaining unit",
+          "dispute resolution",
+          "governance"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_20",
+      "text": "\n\nwithin the unit or college under Article II, Section 3 of the University of Illinois Statutes\nas they may be amended from time to time.\nG. Academic unit executive officers or designees and college deans or designees shall post current\nbylaws and the following policies, if developed, in their academic units and colleges in a place\naccessible to faculty within 90 days of the execution of this Agreement Promotion Norms,\nAnnual Evaluation criteria, merit raise allocation process, unit mentoring policy, workload\nexpectations policy referenced in Article XII of this Agreement and teaching observation policy.\nArticle XII. Hours of Work and Commitment\nA. Bargaining unit members covered herein are expected to maintain work hours and commitment\nto the University required by the terms of their appointment. Bargaining unit members shall\ncomply with the University of Illinois Policy on Conflicts of Commitment and Interest and\nrelated State of Illinois laws such as the University Faculty Research and Consulting Act, 110\nILCS \u00a7 100 and the State Officials and Employees Ethics Act, 5 ILCS \u00a7 430.\nB. Each academic unit shall be responsible for creating and maintaining written expectations for\nall faculty ranks or categories of faculty positions used within the unit through transparent\nshared governance processes in that academic unit. If no such written expectations currently\nexist, each academic unit shall create them within one calendar year of the signing of this\ncontract. Job expectations shall be updated and/or re-ratified by the academic unit at a\nminimum of every three years. The University\u2019s Office of the Vice Provost for Faculty\nAffairs shall gather written expectations from each academic unit to ensure that these written\nexpectations have been completed within one calendar year of signing this contract.\nC. Each academic unit shall be responsible for sharing written expectations described in\nSection B with all faculty in that unit. These expectations will be provided to bargaining\nunit members when they officially start a new position. These expectations will also be\nposted on a University website that is available to all faculty in that unit.\nD. Written expectations will address the items enumerated below, where appropriate:\n1. Teaching course load, including class size and number of courses typically\nexpected of bargaining unit members within each covered classification.\n2. Research, scholarship, and creative activity; and professional development related to\nteaching, research, and service.\n3. Service expectations in addition to participation in shared governance which may, but\nis not required to, include student advising and recruiting; mentoring as appropriate\nfor rank; community engagement work; service to an academic disciplinary\ncommunity; and committee and administrative work in the University.\n20 of 30",
+      "start_idx": 51035,
+      "end_idx": 53890,
+      "metadata": {
+        "num_sentences": 21,
+        "num_words": 434,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Contract_Provisions",
+            "subtypes": [
+              "Workload",
+              "Faculty Expectations",
+              "Shared Governance"
+            ]
+          },
+          "keywords": [
+            "academic unit",
+            "faculty",
+            "written expectations",
+            "workload",
+            "teaching",
+            "research",
+            "service",
+            "shared governance",
+            "promotion norms",
+            "annual evaluation"
+          ],
+          "key_provisions": [
+            "Academic units must create and maintain written expectations for faculty.",
+            "Written expectations must be updated or re-ratified every three years.",
+            "Expectations must be shared with faculty and posted on a University website.",
+            "Expectations should address teaching, research, and service.",
+            "Promotion norms, annual evaluation criteria, merit raise allocation process, unit mentoring policy, workload expectations policy, and teaching observation policy must be posted in a place accessible to faculty."
+          ],
+          "job_titles_mentioned": [
+            "None"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "Create and maintain written expectations for faculty",
+            "Share written expectations with faculty",
+            "Post bylaws and policies"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the requirements for academic units to develop, maintain, and share written expectations for faculty, covering areas such as teaching, research, and service. It also mandates the posting of important policies related to faculty evaluation and workload.",
+          "common_queries": [
+            "What are the requirements for creating written expectations for faculty?",
+            "What topics should be addressed in the written expectations?",
+            "Where should the written expectations be posted?"
+          ],
+          "related_topics": [
+            "Faculty Evaluation",
+            "Workload Policy",
+            "Shared Governance"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_20::d5b9e79c5697"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Contract_Provisions] [Faculty]",
+        "tf_idf_keywords": [
+          "research",
+          "teaching",
+          "promotion norms",
+          "service",
+          "Chicago",
+          "faculty",
+          "annual evaluation",
+          "written expectations",
+          "shared governance",
+          "None",
+          "workload",
+          "academic unit"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_21",
+      "text": "\n\n4. Librarianship, clinical practice, or other professional work.\nE. Should a change to an individual bargaining unit member\u2019s duties be proposed by any Party\nduring the course of a bargaining unit member\u2019s contract, the unit executive officer and the\nbargaining unit member shall mutually agree upon said change(s) or they shall not take\neffect. In circumstances where an individual bargaining member\u2019s duties are changed to\nappreciably deviate from what is typically expected, specific job descriptions shall be developed and\nmutually agreed upon by the unit executive officer and bargaining unit member before the changed\nduties commence. Such changes will conform with the terms of this Agreement. No bargaining unit\nfaculty member may be penalized, disciplined, or terminated for refusing expanded duty.\nF. Each unit\u2019s written expectations will align with its Promotion & Tenure Norms and\nExpectations and criteria for Annual Evaluation. If the activities outlined in the written\nexpectations differ from the unit\u2019s Promotion & Tenure Norms and Expectations or\ncriteria for Annual Evaluation, the unit shall, within one year of the execution of this\nAgreement, align its Promotion & Tenure Norms and Expectations and criteria for Annual\nEvaluation with written expectations.\nWritten expectations for faculty as defined in Article XII of this Agreement shall provide part\nof the basis for the Promotion & Tenure Norms and Expectations and criteria for Annual\nEvaluation for bargaining unit members. The University and UICUF recognize that quality\nand effectiveness in the categories of work listed in Article XII, Sections D.1-\nD.4 of this Agreement are the essence of professional work in academia, and quality and\neffectiveness in these categories are central elements of the Annual Evaluation and Promotion\n& Tenure process.\nG. A bargaining unit member shall be afforded the opportunity, prior to assignments being\nmade, to express their preferences regarding work assignments related to teaching, research,\nservice, and librarianship as described in Section D of this Article. In expressing their\npreferences, bargaining unit members may state how these preferences relate to their relevant\nexpertise and professional growth.\nArticle XIII. Health and Safety\nA. The University is committed to the safety and well-being of its students, faculty, staff, and the\npublic it serves. The administration, faculty, and staff have the responsibility to promote health\nand safety in their environment and operations and shall do so in accordance with any and all\napplicable federal and state laws. Faculty shall report any unhealthy and hazardous work\nconditions, and the University shall review the situation and shall make a reasonable effort to\nresolve the matter and ensure the safety of students, faculty, staff, and the public it serves.\nB. Health and safety issues shall be raised and discussed during labor management meetings and\nmay include participation from campus police, environmental health and safety personnel,\nand/or other relevant individuals.\n21 of 30",
+      "start_idx": 53890,
+      "end_idx": 56959,
+      "metadata": {
+        "num_sentences": 20,
+        "num_words": 465,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Contract_Provisions",
+            "subtypes": [
+              "Job Duties",
+              "Performance Evaluation",
+              "Health and Safety"
+            ]
+          },
+          "keywords": [
+            "job duties",
+            "bargaining unit member",
+            "promotion",
+            "tenure",
+            "annual evaluation",
+            "health",
+            "safety",
+            "work assignments",
+            "hazardous conditions"
+          ],
+          "key_provisions": [
+            "Changes to job duties require mutual agreement",
+            "Job descriptions required for significant duty changes",
+            "Faculty cannot be penalized for refusing expanded duty",
+            "Written expectations must align with Promotion & Tenure Norms",
+            "Faculty must report unhealthy/hazardous work conditions"
+          ],
+          "job_titles_mentioned": [
+            "Faculty"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty - Bargaining Unit",
+          "union_name": "UICUF",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "Mutually agree on duty changes",
+            "Develop job descriptions for significant duty changes",
+            "Report unhealthy/hazardous work conditions"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the process for changing job duties, the alignment of written expectations with promotion and tenure norms, and health and safety responsibilities. It requires mutual agreement for duty changes and reporting of hazardous conditions.",
+          "common_queries": [
+            "What is the process for changing a faculty member's job duties?",
+            "What happens if written expectations don't align with promotion and tenure norms?",
+            "What are faculty members required to do regarding health and safety?"
+          ],
+          "related_topics": [
+            "Promotion and Tenure",
+            "Performance Evaluation",
+            "Workplace Safety"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_21::73f4bd8eb3d0"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Contract_Provisions] [Faculty - Bargaining Unit]",
+        "tf_idf_keywords": [
+          "safety",
+          "hazardous conditions",
+          "job duties",
+          "UICUF",
+          "work assignments",
+          "tenure",
+          "annual evaluation",
+          "bargaining unit member",
+          "Faculty",
+          "Chicago",
+          "health",
+          "promotion"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_22",
+      "text": "\n\nC. The University shall pay the cost of, supply, and maintain all safety items, such as tools,\nequipment, and protective clothing including respiratory equipment and eyewear, that the\nUniversity, in its sole discretion, requires faculty to use in the performance of their duties. The\nUniversity shall supply and maintain adequate emergency facilities, equipment, and supplies;\nincluding, but not limited to, eyewash stations and emergency shower stations as required by\nhealth and safety law and personal protective equipment (PPE) to bargaining unit members\nnecessary for required work. These shall be available at appropriate locations within easy and\ntimely access and shall be provided at no cost to the faculty. The University shall pay the cost\nof and provide proper training and supervision to ensure that faculty who operate machinery,\ntools, and equipment do so with safety and care when the University, in its sole discretion,\nrequires the faculty to use such items in the performance of their duties.\nD. The University and Union are committed to the protection of students through the effective\nimplementation of University and Campus policies which address sexual assault in the\ncampus community by, among other things, providing crisis intervention services and\nresources to survivors. Faculty are encouraged to access related training programs offered by\nthe University's Office for Access & Equity, the Campus Advocacy Network, the Dean of\nStudents, and other Campus organizations which are designed to inform staff and/or students\nto maximize the opportunity for effective implementation of applicable University and\nCampus policies.\nE. The University shall provide electronic materials on a University website that focuses on\nalternatives to calling the police.\nF. The University and the Union are committed to a gun-free campus per the UIC Firearm\nPolicy.\nG. Declared Public Health Emergency\nUpon request by either the Union or the University, the Union and University shall convene to\ndiscuss the University\u2019s response to a public health emergency declared by city, state, or national\npublic health departments. At this meeting, the representatives from the University and Union\nshall review recommendations from the Centers for Disease Control and Prevention, University,\nother medical organizations, and/or public agencies on the declared public health emergency.\nThe University shall provide information to the Union about its response to the declared public\nhealth emergency. The Union may offer recommendations to the University about its response to\nthe declared public health emergency, and the University will respond to these recommendations\nwithin ten (10) business days. This meeting shall not replace impact bargaining as described in\nArticle XXII.\nArticle XIV. Physical Conditions\nA. The University shall provide the faculty, to the extent feasible and reasonable under the\ncircumstances, with appropriate space and facilities such as office, laboratory, studio, and\n22 of 30",
+      "start_idx": 56959,
+      "end_idx": 59968,
+      "metadata": {
+        "num_sentences": 16,
+        "num_words": 450,
+        "recursion_depth": 4,
+        "content": {
+          "content_type": {
+            "primary": "Working_Conditions",
+            "subtypes": [
+              "Safety",
+              "Health and Safety",
+              "Campus Safety"
+            ]
+          },
+          "keywords": [
+            "safety",
+            "equipment",
+            "protective clothing",
+            "respiratory equipment",
+            "eyewear",
+            "emergency facilities",
+            "eyewash stations",
+            "emergency shower stations",
+            "PPE",
+            "public health emergency"
+          ],
+          "key_provisions": [
+            "University provides safety equipment and protective clothing at no cost",
+            "University provides adequate emergency facilities and equipment",
+            "University provides training for operating machinery",
+            "University committed to gun-free campus",
+            "University and Union to discuss response to public health emergencies"
+          ],
+          "job_titles_mentioned": [
+            "Faculty"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "No action required",
+            "Union or University can request meeting to discuss public health emergency response"
+          ]
+        },
+        "semantic": {
+          "summary": "The University provides safety equipment, emergency facilities, and training to faculty at no cost. The University and Union are committed to campus safety, including addressing sexual assault and maintaining a gun-free campus, and will discuss responses to declared public health emergencies.",
+          "common_queries": [
+            "What safety equipment does the University provide to faculty?",
+            "What are the University's policies regarding sexual assault on campus?",
+            "What is the process for addressing public health emergencies?"
+          ],
+          "related_topics": [
+            "Employee Training",
+            "Health and Safety Regulations",
+            "Emergency Procedures"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_22::ee1e8571b550"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Working_Conditions] [Faculty]",
+        "tf_idf_keywords": [
+          "safety",
+          "eyewear",
+          "respiratory equipment",
+          "public health emergency",
+          "emergency shower stations",
+          "equipment",
+          "eyewash stations",
+          "Faculty",
+          "Chicago",
+          "protective clothing",
+          "PPE",
+          "emergency facilities"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_23",
+      "text": "\n\nclassroom space for effective and safe teaching, research, advising, and other activities\nnecessary to their academic discipline and performance of duties, including reasonable\naccess to such space during periods when the buildings may be closed.\nB. Departments shall arrange for the availability of private office space for faculty to utilize\nfor the purpose of holding confidential meetings with their students. Faculty members may\nschedule usage of this designated student meeting space in advance or on an ad hoc\nbasis.\nC. When a bargaining unit member submits a report about issues related to their physical\nworking conditions, they will receive an acknowledgement that the report has been received\nand a proposed schedule for assessing the issue from the administrative unit(s) that maintains\nthe space within 5 business days. Issues that affect the health and safety of bargaining unit\nmembers shall be addressed within 10 business days. Individuals shall not bear the cost of\nbuilding repairs or replacing materials damaged because of facility failures.\n1. Any bargaining unit member can report facility issues. Routine service requests must\nbe submitted directly through FMWeb (https://fm.uic.edu/request-service/). Facilities\nManagement will send a notification usually within 24 hours acknowledging receipt.\nService requests can be tracked through FMweb by the end user. Routine service\nrequests will be addressed within 10 business days.\n2. Urgent service requests (flooding, equipment failure, chemical spills, leaks,\nhot/cold calls, utility interruption, etc.) can be addressed by calling (312) 996-7511\nat any time. Urgent service requests will generate a response within 48 hours.\n3. Bargaining Unit members may report safety issues related to biological safety,\nlaboratory safety, radiation safety, occupational safety, laser safety, food safety,\nand fire safety to the Environmental, Health, and Safety Office (EHSO) via their\nwebsite: https://ehso.uic.edu/contact-ehso/. Reporting units shall receive timely\nacknowledgement that a report on safety hazards has been received. Within 24\nhours, the University will communicate a proposed schedule for evaluating and\nremedying the problem and will make a reasonable effort to provide\naccommodating alternatives until the problem is solved.\nD. Offices, laboratories, classrooms, and other work spaces shall be thoroughly cleaned at least\nonce per semester at no cost to the faculty member. Cleaning includes mopping of floors,\ncarpet vacuuming, and dusting of available flat surfaces (desks/tables/shelves) that are\ncompletely cleared. Faculty shall have the opportunity to opt out of office cleaning service.\nArticle XV. Discipline and Dismissal\nA. Tenured Faculty: For matters related to discipline or dismissal of tenured bargaining unit\nemployees, the University shall follow the standards for due cause and procedures outlined in\n23 of 30",
+      "start_idx": 59968,
+      "end_idx": 62877,
+      "metadata": {
+        "num_sentences": 26,
+        "num_words": 422,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Working_Conditions",
+            "subtypes": [
+              "Workplace Safety",
+              "Facilities Maintenance",
+              "Office Space"
+            ]
+          },
+          "keywords": [
+            "classroom space",
+            "office space",
+            "working conditions",
+            "safety",
+            "facilities",
+            "repairs",
+            "cleaning",
+            "FMWeb",
+            "EHSO"
+          ],
+          "key_provisions": [
+            "Faculty have reasonable access to classroom space.",
+            "Departments shall arrange for private office space for confidential meetings with students.",
+            "Reports about physical working conditions require acknowledgement and a proposed schedule within 5 business days.",
+            "Health and safety issues addressed within 10 business days.",
+            "Offices, labs, classrooms cleaned once per semester."
+          ],
+          "job_titles_mentioned": [
+            "Faculty"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Bargaining Unit Members",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "Submit reports about issues related to physical working conditions.",
+            "Submit routine service requests through FMWeb",
+            "Report safety issues to the Environmental, Health, and Safety Office (EHSO)"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines provisions for classroom and office space, reporting procedures for facility issues, and cleaning schedules for workspaces. It details how bargaining unit members can report and track facility and safety concerns.",
+          "common_queries": [
+            "How do I report a facility issue?",
+            "How often are offices cleaned?",
+            "What is the response time for urgent service requests?"
+          ],
+          "related_topics": [
+            "Workplace Safety",
+            "Facilities Maintenance",
+            "Environmental Health and Safety"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_23::a58013a061fc"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Working_Conditions] [Bargaining Unit Members]",
+        "tf_idf_keywords": [
+          "safety",
+          "cleaning",
+          "EHSO",
+          "repairs",
+          "Chicago",
+          "Faculty",
+          "office space",
+          "facilities",
+          "classroom space",
+          "working conditions",
+          "FMWeb"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_24",
+      "text": "\n\nthe University of Illinois Statutes, and related campus human resource policies and procedures, as\nthey may be amended from time to time. Any process, grievance or appeal of decisions relating to\ndiscipline or dismissal of tenured faculty are to be handled solely through the processes due under the\nUniversity of Illinois Statutes and related campus human resource policies and procedures, as they\nmay be amended, and are not subject to the Grievance and Arbitration Article XVI of this Agreement.\nB. Tenure Track Faculty (probationary faculty on continuing appointment who have not attained\ntenure): The University may discipline, suspend, or dismiss a tenure track faculty member\nprior to completion of their appointment or academic year for just cause. Nothing in this section\nis intended to usurp or alter the process under University Statutes to provide notice of non-\nreappointment to a tenure track faculty member.\nC. Situations in which a faculty member is placed on paid leave pending the conclusion of an\ninvestigation shall not be considered discipline.\nD. If during a complaint, the Office for Access and Equity (OAE) shares information gathered in\nresponse to a complaint about a bargaining unit member with that member\u2019s Unit Executive\nOfficer or other supervisor the bargaining unit member shall be notified and shall receive as\nmuch information as possible as determined by OAE. OAE shall strive to provide as much\ntransparency as possible to subjects of complaints but considers elements including the\npossibility of retaliation and wishes of the complainant when making a determination about\nthe information that is shared and the timing of sharing this information\nArticle XVI. Labor Management Meetings\nThe Union and the University shall meet at least one time per semester during the term of this\nAgreement, if so requested by the Union. The Union shall designate members, including the Union\nPresident and Chief Steward, to meet on its behalf, and the University will designate individuals,\nincluding the Chancellor, Provost, or Vice Chancellor for Health Affairs, or a representative from\nthe respective office and staff from Labor Relations, to meet. Both sides may tender a list of items\nto be discussed and a list of any information requested at least one week before the scheduled\nmeeting date.\nArticle XVII. Access to Personnel File\nA. The University shall maintain the official personnel file for each bargaining unit member\nin the campus Human Resources office. A bargaining unit member shall have the right to\nadd explanatory material to their official personnel file, as provided in the Personnel\nRecord Review Act (820 ILCS \u00a7 40/1 et seq).\nB. A bargaining unit member\u2019s signature on disciplinary or evaluative material confirms only\ndiscussion or receipt of these documents but indicates neither agreement nor disagreement.\n24 of 30",
+      "start_idx": 62877,
+      "end_idx": 65745,
+      "metadata": {
+        "num_sentences": 18,
+        "num_words": 453,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Contract_Provisions",
+            "subtypes": [
+              "Discipline",
+              "Personnel Files",
+              "Labor Management Meetings"
+            ]
+          },
+          "keywords": [
+            "discipline",
+            "dismissal",
+            "tenure",
+            "grievance",
+            "arbitration",
+            "personnel file",
+            "labor management meetings",
+            "OAE",
+            "Access and Equity"
+          ],
+          "key_provisions": [
+            "Discipline/dismissal of tenured faculty handled through University Statutes, not grievance process",
+            "University may discipline, suspend, or dismiss tenure track faculty for just cause",
+            "Paid leave pending investigation is not considered discipline",
+            "Bargaining unit member notified when OAE shares information with supervisor",
+            "Bargaining unit member can add explanatory material to personnel file"
+          ],
+          "job_titles_mentioned": [
+            "Faculty",
+            "Tenure Track Faculty",
+            "Unit Executive Officer",
+            "Chancellor",
+            "Provost",
+            "Vice Chancellor for Health Affairs"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty - Tenure System",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines procedures for discipline and dismissal of faculty, access to personnel files, and labor management meetings. It clarifies that discipline of tenured faculty is governed by University Statutes, and describes the process for information sharing by the Office for Access and Equity.",
+          "common_queries": [
+            "How is discipline handled for tenured faculty?",
+            "What are my rights regarding my personnel file?",
+            "How often do labor management meetings occur?"
+          ],
+          "related_topics": [
+            "Grievance Procedure",
+            "Discipline Process",
+            "Personnel Record Review Act"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_24::3e13f222dbdf"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Contract_Provisions] [Faculty - Tenure System]",
+        "tf_idf_keywords": [
+          "dismissal",
+          "labor management meetings",
+          "Tenure Track Faculty",
+          "Chancellor",
+          "Vice Chancellor for Health Affairs",
+          "Provost",
+          "OAE",
+          "grievance",
+          "tenure",
+          "Faculty",
+          "Unit Executive Officer",
+          "Chicago",
+          "arbitration",
+          "personnel file",
+          "discipline"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_25",
+      "text": "\n\nC. Upon written request to UIC Human Resources each bargaining unit member shall receive\nwithin ten (10) business days electronic and/or physical copies of their personnel files as\nmaintained by units, colleges, human resources, or any other offices as provided in the\nPersonnel Record Review Act. If authorized by a bargaining unit member in writing, a Union\nrepresentative may also receive the files as provided by the law.\nD. The University shall not gather or keep records of non- academic or non-employment\nrelated activities or information, as provided by law.\nArticle XVIII. Grievance and Arbitration\nA. Grievance Definition\nA grievance is defined as a complaint filed by an employee, a group of employees, or the Union\nalleging that the University breached a Section or Sections of this Agreement.\nB. Notification of Union Officials\nThe Union shall furnish the University with a full list of elected officials and elected officers,\nincluding a grievance officer, as soon as they become available, but not later than September 15,\nof each academic year. The Union shall also inform the University in writing of any changes to\nthe list of elected officials and elected officers, including the grievance officer, as changes take\nplace.\nC. Basic Principles\n1. Every faculty member covered by this Agreement, with or without Union\nrepresentation, may pursue a grievance.\n2. The Parties recognize that day-to-day problems may be discussed between faculty and\nsupervisors. Such informal discussions are encouraged but shall have no effect upon\nthe time limits set forth in this Agreement. It is further understood that the various time\nlimits set forth in this Article may be extended only by the mutual written agreement of\nthe University and the Union. Any resolutions reached at this level must be consistent\nwith the terms of this Agreement.\n3. Grievances may be processed by the Union on behalf of an employee or on behalf of a\ngroup of employees or on behalf of itself setting forth name(s) or group(s) of the\nemployee(s). Either Party may have the grievant or one grievant representing a group\nof grievants present at any step of the grievance procedure. The resolution of a\ngrievance filed on behalf of a group of employees shall be made applicable to the\nappropriate employees within that group.\n4. This Article does not preclude faculty members from pursuing a remedy through\n25 of 30",
+      "start_idx": 65745,
+      "end_idx": 68142,
+      "metadata": {
+        "num_sentences": 22,
+        "num_words": 391,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Rights_and_Protections",
+            "subtypes": [
+              "Personnel Files",
+              "Union Representation"
+            ]
+          },
+          "keywords": [
+            "personnel files",
+            "bargaining unit member",
+            "UIC Human Resources",
+            "Union representative",
+            "grievance",
+            "grievance procedure",
+            "academic year",
+            "employee",
+            "agreement"
+          ],
+          "key_provisions": [
+            "Bargaining unit members can request personnel files",
+            "Union representative can access personnel files with authorization",
+            "University cannot keep records of non-academic or non-employment activities",
+            "Employees can pursue a grievance with or without union representation",
+            "Time limits for grievances can be extended by mutual written agreement"
+          ],
+          "job_titles_mentioned": [
+            "faculty member",
+            "None"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Bargaining Unit Members",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "Submit written request"
+          ]
+        },
+        "semantic": {
+          "summary": "Bargaining unit members can request access to their personnel files, and the Union can access them with written authorization. The agreement also outlines the grievance procedure and the rights of employees to pursue grievances.",
+          "common_queries": [
+            "How do I request my personnel file?",
+            "Can the union access my personnel file?",
+            "What is the process for filing a grievance?"
+          ],
+          "related_topics": [
+            "Discipline Process",
+            "Union Representation",
+            "Grievance Procedures"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_25::cced59dcc486"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Rights_and_Protections] [Bargaining Unit Members]",
+        "tf_idf_keywords": [
+          "academic year",
+          "UIC Human Resources",
+          "agreement",
+          "Union representative",
+          "grievance",
+          "Chicago",
+          "bargaining unit member",
+          "personnel files",
+          "employee",
+          "faculty member",
+          "None",
+          "grievance procedure"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_26",
+      "text": "\n\nexisting statutory or administrative mechanisms, or existing campus grievance\nprocedures. Faculty members may have Union representation while pursuing a\nremedy through the campus grievance procedure.\nD. Time Limits\nFailure to file a grievance within twenty-five (25) business days after the Union knew or should\nreasonably have discovered the events on which the grievance is based shall constitute a waiver\nof the grievance. Failure to appeal a grievance from one level to another within the time periods\nhereafter provided shall constitute a waiver of the grievance. If the University fails to respond to\na grievance within the applicable time limit, the grievant may appeal the grievance to the next\nlevel if such advancement of the grievance is appealed within twenty-five (25) business days\nfollowing the final date on which the University\u2019s response was due. Written requests by either\nParty for an extension of any and all time limits as provided in this Article shall not be\nunreasonably denied.\nThe phrase \u201cbusiness days\u201d for purposes of this Article shall mean Monday through Friday,\nexcluding campus-designated holidays.\nE. Adjustment of Grievances\nLevel 1. If the grievance is not resolved through informal discussion, the grievant shall have\ntwenty-five (25) business days from the date after the Union knew or should reasonably have\ndiscovered the events on which the grievance is based to file a written grievance with the faculty\nmember\u2019s immediate supervisor. The written grievance should contain the following\ninformation: a specific description of the dispute, the facts giving rise to the dispute, a listing of\nthe article and section of the Agreement violated, a statement as to how the article and section\nwere violated, the date of the violation, and requested remedy. The supervisor shall meet with\nthe grievant (and up to two (2) Union representatives, if so desired by the grievant) and shall\ngive a written decision on the grievance to the grievant within fourteen (14) business days. If the\nUnion and University (the Parties) both agree in writing, the Parties may elect not to have a\nmeeting, and the supervisor shall give a written decision on the grievance to the grievant within\nfourteen (14) business days of the decision to not hold the meeting.\nLevel 2. In the event the grievance is not resolved in Level 1, the decision rendered may be\nappealed to the Dean of the College in which the faculty member is appointed, provided such\nappeal is made in writing within twenty-five (25) business days after receipt of the decision in\nLevel 1. If a grievance has been appealed, the Dean or Associate Dean shall meet to discuss the\ngrievance. Within fourteen (14) business days after the meeting, the Dean or Associate Dean\nshall issue a decision to the Union and the grievant(s). If the Union and University (the Parties)\nboth agree in writing, the Parties may elect not to have a meeting, and the Dean of the College or\nAssociate Dean shall give a written decision on the grievance to the grievant within fourteen (14)\nbusiness days of the decision to not hold the meeting.\n26 of 30",
+      "start_idx": 68142,
+      "end_idx": 71254,
+      "metadata": {
+        "num_sentences": 18,
+        "num_words": 511,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Dispute_Resolution",
+            "subtypes": [
+              "Grievance Procedures"
+            ]
+          },
+          "keywords": [
+            "grievance",
+            "time limits",
+            "appeal",
+            "waiver",
+            "Union representation",
+            "supervisor",
+            "Dean",
+            "business days"
+          ],
+          "key_provisions": [
+            "Grievance must be filed within 25 business days of knowledge of event.",
+            "Failure to appeal within specified time constitutes waiver.",
+            "University failure to respond allows appeal to next level after 25 business days.",
+            "Level 1: File written grievance with supervisor within 25 business days.",
+            "Level 2: Appeal to Dean within 25 business days after Level 1 decision."
+          ],
+          "job_titles_mentioned": [
+            "faculty member",
+            "supervisor",
+            "Dean",
+            "Associate Dean"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "File a grievance within 25 business days",
+            "Appeal a grievance within specified time periods",
+            "Submit written grievance with specific information"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the grievance procedure for faculty members at UIC, including time limits for filing and appealing grievances, and the process for resolving grievances at different levels, including the option for Union representation. It also defines 'business days' for the purpose of this article.",
+          "common_queries": [
+            "What is the deadline for filing a grievance?",
+            "What happens if the University doesn't respond to a grievance in time?",
+            "Can I have Union representation during the grievance process?"
+          ],
+          "related_topics": [
+            "Union Representation",
+            "Disciplinary Action",
+            "Employee Rights"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_26::fab957e89de7"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Dispute_Resolution] [Faculty]",
+        "tf_idf_keywords": [
+          "Union representation",
+          "appeal",
+          "supervisor",
+          "business days",
+          "Associate Dean",
+          "Dean",
+          "grievance",
+          "Chicago",
+          "faculty member",
+          "time limits",
+          "waiver"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_27",
+      "text": "\n\nLevel 3. In the event the grievance is not resolved in Level 2, the decision may be appealed to\nthe Office of the Provost or the Office of the Vice Chancellor for Health Affairs (VCHA), based\non the reporting line of the College and submitted to the designee in the Office of UIC Human\nResources, provided such appeal is made in writing within twenty-five (25) business days after\nreceipt of the decision in Level 2. If a grievance has been appealed to Level 3, as described\nabove, the Provost, VCHA, or a designee from the Provost\u2019s or VCHA\u2019s office and a\nrepresentative from Labor and Employee Relations shall meet to hear the grievance.\nWithin fourteen (14) business days after the meeting, the Provost, VCHA, or designee, shall\nissue a decision in writing to the Parties involved. If the Union and University (the Parties) both\nagree in writing, the Parties may elect not to have a meeting, and the Provost or VCHA designee\nshall give a written decision on the grievance to the grievant within fourteen (14) business days\nof the decision to not hold the meeting.\nLevel 4. In the event that the grievance is not resolved in Level 3, the decision can be appealed\nto arbitration:\n1. Request. The Union may submit a grievance to arbitration, provided written notice of\nintent to arbitrate is delivered to the Office of Labor Relations within twenty-five (25)\nbusiness days following receipt of the decision in Level 3 of the grievance procedure.\n2. Selection of Arbitrator. Upon submission of a request for arbitration, the Parties may\nwithin fourteen (14) business days after the request to arbitrate, attempt to agree upon an\narbitrator. In the event the Parties are unable to agree upon the arbitrator within said\nfourteen (14) business day period, the Parties shall jointly request the Federal Mediation\nand Conciliation Services (FMCS) to submit a panel of five (5) arbitrators, all of whom\nare members of the National Academy of Arbitrators. Each Party retains the right to\nreject one panel in its entirety and request that a new panel be submitted. Both the\nUniversity and the Union shall have the right to strike two (2) names from the panel.\nEach Party will alternately strike one (1) name from the list of five (5). The Parties will\ndecide who strikes first using a coin flip or equivalent random selection process. The\nperson remaining shall be the arbitrator. The Parties shall promptly notify the arbitrator\nof their selection.\n3. Hearing. The grievance shall be heard by a single arbitrator and both Parties may be\nrepresented by such persons as they may designate, and the Parties shall have the right\nto a hearing at which time both Parties will have the opportunity to submit evidence,\noffer testimony, and make oral or written arguments relating to the issues before the\narbitrator.\n4. Decision. The arbitrator so selected shall confer with the University and Union\nrepresentatives and hold hearings promptly and shall issue their decision not later than\ntwenty-five (25) business days from the date of the close of the hearings or, if written\nbriefs have not been waived, then from the date the final statements and proofs on the\nissues are submitted to them. The arbitrator\u2019s decision shall be in writing and shall set\nforth their findings of fact, reasoning, and conclusions on the issues submitted. The\n27 of 30",
+      "start_idx": 71254,
+      "end_idx": 74589,
+      "metadata": {
+        "num_sentences": 27,
+        "num_words": 564,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Dispute_Resolution",
+            "subtypes": [
+              "Grievance Procedure",
+              "Arbitration"
+            ]
+          },
+          "keywords": [
+            "grievance",
+            "arbitration",
+            "Provost",
+            "VCHA",
+            "Labor Relations",
+            "appeal",
+            "decision",
+            "FMCS",
+            "arbitrator"
+          ],
+          "key_provisions": [
+            "Grievance appeal to Provost/VCHA within 25 business days of Level 2 decision",
+            "Provost/VCHA decision within 14 business days after meeting",
+            "Union may submit to arbitration within 25 business days of Level 3 decision",
+            "Parties have 14 business days to agree on arbitrator",
+            "Arbitrator decision within 25 business days of hearing close"
+          ],
+          "job_titles_mentioned": [
+            "None"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "All Employees",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "Submit written notice of appeal",
+            "Request arbitration",
+            "Select arbitrator"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the grievance procedure, including appeals to the Provost/VCHA and arbitration, specifying timelines for each step. It details the process for selecting an arbitrator and the requirements for the arbitrator's decision.",
+          "common_queries": [
+            "What is the timeline for appealing a grievance to the Provost or VCHA?",
+            "How is an arbitrator selected for a grievance?",
+            "What are the requirements for the arbitrator's decision?"
+          ],
+          "related_topics": [
+            "Discipline Process",
+            "Union Representation",
+            "Employee Rights"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_27::1c36f113cb93"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Dispute_Resolution] [All Employees]",
+        "tf_idf_keywords": [
+          "Provost",
+          "appeal",
+          "FMCS",
+          "grievance",
+          "Chicago",
+          "Labor Relations",
+          "arbitration",
+          "None",
+          "arbitrator",
+          "VCHA",
+          "decision"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_28",
+      "text": "\n\narbitrator\u2019s authority shall be limited to determining whether the University has violated\narbitrable provisions of this contract. The arbitrator\u2019s decision shall be binding on the\nUniversity and Union, subject to the provisions of the Illinois Educational Labor\nRelations Act.\n5. Expenses. The cost for the services of the arbitrator, including per diem expenses, if\nany, and actual and necessary travel and subsistence expenses shall be borne equally by\nthe University and the Union. Any other expenses incurred shall be paid by the Party\nincurring the same.\nF. Advanced Grievance Step Filing\nCertain issues which by nature are not capable of being settled at a preliminary step of the\ngrievance procedure or which would become moot due to the length of time necessary to exhaust\nthe grievance steps may, if mutually agreed upon in writing by the Union and University, be\nfiled at the appropriate advanced step where the action giving rise to the grievance was initiated.\nG. Pertinent Information\nExcept as otherwise provided, either Party may request the production of specific documents,\nbooks, or papers reasonably available and substantially pertinent to the grievance under\nconsideration. Such request shall not be unreasonably denied and, if granted, shall be in\nconformance with applicable laws, and rules issued pursuant thereto, governing the\ndissemination of such materials.\nArticle XIX. No Strike or Lockout\nThis Agreement contains a grievance resolution procedure which provides for final and binding\narbitration of disputes concerning the interpretation of this Agreement. Therefore, during the term\nof this Agreement, there shall be no strikes, work stoppages, slowdowns or sympathy strikes. No\nofficer or representative of the Union shall authorize, institute, instigate, aid or condone any such\nactivities by members of the bargaining unit. The Union further agrees that it will take\nreasonable means which are within its power to induce employees engaged in a strike or work\nstoppage in violation of the terms of this Agreement to return to work; such reasonable means\ninclude the Union, through its officials, disavowing in writing any such action or interference and\nadvising in writing that faculty engaged in such activity immediately return to work and cease the\nviolation. Faculty who violate this Article may be subject to disciplinary action under the terms\nof this Agreement. In consideration of this \u201cno strike pledge\u201d, no lockout of employees shall be\ninstituted by the Employer during the term of this Agreement; provided, however, this Article\nshould not be construed as requiring the University to stay in continuous operation.\n28 of 30",
+      "start_idx": 74589,
+      "end_idx": 77260,
+      "metadata": {
+        "num_sentences": 17,
+        "num_words": 414,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Dispute_Resolution",
+            "subtypes": [
+              "Grievance Procedure",
+              "Arbitration"
+            ]
+          },
+          "keywords": [
+            "grievance",
+            "arbitration",
+            "strike",
+            "lockout",
+            "Union",
+            "University",
+            "contract",
+            "dispute resolution",
+            "information",
+            "expenses"
+          ],
+          "key_provisions": [
+            "Arbitrator's authority limited to contract violations.",
+            "Arbitrator's decision binding on University and Union.",
+            "Arbitrator's expenses shared equally.",
+            "Advanced grievance step filing by mutual agreement.",
+            "No strikes or lockouts during the agreement term."
+          ],
+          "job_titles_mentioned": [
+            "Faculty",
+            "None"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Not Specified",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "Not Specified"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "Union must take reasonable means to induce employees to return to work during a strike.",
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the grievance and arbitration procedures, including the arbitrator's authority, expense sharing, and the process for advanced grievance step filing. It also includes a no-strike/no-lockout clause during the agreement term.",
+          "common_queries": [
+            "How are arbitration costs divided between the University and the Union?",
+            "What are the limitations on the arbitrator's authority?",
+            "What actions are the Union required to take if members engage in a strike?"
+          ],
+          "related_topics": [
+            "Disciplinary Action",
+            "Union Representation",
+            "Illinois Educational Labor Relations Act"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_28::f8e77899f168"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Dispute_Resolution] [Not Specified]",
+        "tf_idf_keywords": [
+          "Union",
+          "contract",
+          "University",
+          "strike",
+          "grievance",
+          "Faculty",
+          "information",
+          "Chicago",
+          "lockout",
+          "arbitration",
+          "None",
+          "dispute resolution",
+          "expenses"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_29",
+      "text": "\n\nArticle XX. Electronic Availability of Agreement\nWithin thirty (30) days of ratification, the University shall post this Agreement to its website. The\nUniversity shall maintain this Agreement on its website for the duration of the Agreement.\nArticle XXI. Savings Clause\nShould any part of this Agreement or any provision(s) contained herein be determined to be illegal\nor invalid by a court or agency of competent jurisdiction or if compliance with or enforcement of\nany provision should be restrained by a court or agency pending a final determination as to its\nvalidity, such part or provision(s) shall not invalidate the remaining portions hereof, and they shall\nremain in full force and effect. If either Party makes a request, the invalidated part(s) or provision(s)\nwill be renegotiated.\nArticle XXII. Entire Agreement\nThe Parties acknowledge that during the negotiations which resulted in this Agreement, each had\nthe unlimited right and opportunity to make demands and proposals with respect to any subject\nor matter not removed by law from the area of collective bargaining, and that the\nunderstandings and agreements arrived at by the Parties after the exercise of that right and\nopportunity are set forth in this Agreement.\nThis Agreement represents the entire agreement between the University and the Union, and no\nfurther decisional bargaining is required during the term of the Agreement over mandatory or\npermissive subjects or practices not expressly addressed in this Agreement. However, the Parties\nshall bargain over the impact of any decision that affects the wages, hours, and working conditions\nof faculty at the request of either Party. Any agreement(s) which supplement this Agreement shall\nnot be binding or effective for any purpose whatsoever unless reduced to writing and signed by the\nUniversity and the Union.\nArticle XXIII. Duration\nThis Agreement shall become effective as of August 16, 2022, and, unless otherwise specifically\nprovided herein, shall remain in full force and effect through August 15, 2026. This Agreement\nshall automatically be renewed from year-to-year thereafter unless either Party notifies the other in\nwriting not more than one hundred and twenty (120) days nor less than ninety (90) days prior to\nAugust 15, 2026, or August 15 of a subsequent year in the event of its automatic renewal, that it\ndesires to modify its terms.\nNotwithstanding any provisions of this Article or agreement to the contrary, this Agreement shall\nremain in full force and effect after the expiration date and until a new agreement is reached unless\na Party gives at least ten (10) calendar days advance written notice to the other Party of its desire to\n29 of 30",
+      "start_idx": 77260,
+      "end_idx": 79955,
+      "metadata": {
+        "num_sentences": 15,
+        "num_words": 431,
+        "recursion_depth": 5,
+        "content": {
+          "content_type": {
+            "primary": "Administrative",
+            "subtypes": [
+              "Contract Duration",
+              "Entire Agreement",
+              "Savings Clause"
+            ]
+          },
+          "keywords": [
+            "agreement",
+            "ratification",
+            "website",
+            "duration",
+            "savings clause",
+            "entire agreement",
+            "negotiations",
+            "collective bargaining",
+            "duration",
+            "renewal"
+          ],
+          "key_provisions": [
+            "University shall post agreement to website within 30 days of ratification",
+            "Agreement effective August 16, 2022",
+            "Agreement expires August 15, 2026",
+            "Agreement renews automatically unless notice given 90-120 days prior to expiration",
+            "Agreement remains in effect until new agreement reached with 10 days written notice to terminate"
+          ],
+          "job_titles_mentioned": [
+            "None"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": false,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Not Specified",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "August 16, 2022",
+            "end": "August 15, 2026"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "University to post agreement online",
+            "Parties to renegotiate invalidated provisions if requested",
+            "Party desiring to modify terms must provide written notice 90-120 days prior to expiration"
+          ]
+        },
+        "semantic": {
+          "summary": "This section covers the electronic availability of the agreement, a savings clause ensuring the validity of the remaining provisions if one is invalidated, the entire agreement clause, and the agreement's duration and renewal terms. It also outlines the process for modifying or terminating the agreement.",
+          "common_queries": [
+            "When does this agreement expire?",
+            "How will I access the agreement online?",
+            "What happens if part of the agreement is found to be illegal?"
+          ],
+          "related_topics": [
+            "Contract Negotiations",
+            "Grievance Procedure",
+            "Union Rights"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_29::e75cde8abca9"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Administrative] [Not Specified]",
+        "tf_idf_keywords": [
+          "renewal",
+          "ratification",
+          "website",
+          "agreement",
+          "entire agreement",
+          "savings clause",
+          "Chicago",
+          "None",
+          "collective bargaining",
+          "negotiations",
+          "duration"
+        ]
+      }
+    },
+    {
+      "chunk_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_30",
+      "text": "\n\nterminate this Agreement; provided, such termination date shall not be prior to August 15, 2026, or\nthe anniversary/expiration date of a subsequent year in the event of its automatic renewal. Upon\ntermination of this Agreement, all benefits and obligations hereunder shall be terminated and shall\nnot survive the Agreement unless otherwise required by law.\nSide Letter: Miscellaneous\nMinimum Salaries\nAll of the minimum salaries referenced above refer to nine-month salaries, with the exception of\nbargaining unit members who work for the University Libraries. For such faculty, the minimum\nsalaries refer to 12-month salaries.\nLitigation\nPromptly after full execution of this Agreement, the Union will withdraw with prejudice and agrees\nto waive all pending unfair labor practice charges except for the charges in IELRB case nos. 2020-\nCA-0058 and 2021-CA-0008, and any other claims pending against the University. The Union\nfurther agrees to refrain from filing any claims, including unfair labor practice charges, against the\nUniversity which may exist or could have been alleged as of the date of ratification of this\nAgreement by the Union.\n30 of 30",
+      "start_idx": 79955,
+      "end_idx": 81111,
+      "metadata": {
+        "num_sentences": 8,
+        "num_words": 178,
+        "recursion_depth": 6,
+        "content": {
+          "content_type": {
+            "primary": "Contract_Provisions",
+            "subtypes": [
+              "Contract Duration",
+              "Litigation",
+              "Minimum Salaries"
+            ]
+          },
+          "keywords": [
+            "termination",
+            "agreement",
+            "benefits",
+            "obligations",
+            "minimum salaries",
+            "litigation",
+            "unfair labor practice",
+            "charges",
+            "union",
+            "university"
+          ],
+          "key_provisions": [
+            "Agreement terminates benefits and obligations unless otherwise required by law",
+            "Union withdraws unfair labor practice charges",
+            "Union refrains from filing claims against University"
+          ],
+          "job_titles_mentioned": [
+            "Faculty",
+            "None"
+          ],
+          "wage_amounts": [],
+          "percentage_increases": [],
+          "contains_wage_data": true,
+          "contains_numerical_terms": true
+        },
+        "contract": {
+          "covered_employee_group": "Faculty and University Librarians",
+          "union_name": "Not Specified",
+          "campus_location": "Chicago",
+          "effective_dates": {
+            "start": "Not Specified",
+            "end": "August 15, 2026"
+          },
+          "exclusions": [],
+          "action_requirements": [
+            "No action required"
+          ]
+        },
+        "semantic": {
+          "summary": "This section outlines the agreement's termination conditions, clarifies that minimum salaries are based on a nine-month schedule except for University Libraries faculty (12-month), and details the Union's agreement to withdraw pending unfair labor practice charges and refrain from filing new claims against the University.",
+          "common_queries": [
+            "What are the conditions for terminating the agreement?",
+            "What happens to benefits and obligations upon termination of the agreement?",
+            "What are the Union's responsibilities regarding pending and future legal claims?"
+          ],
+          "related_topics": [
+            "Grievance Procedures",
+            "Contract Renewal",
+            "Legal Compliance"
+          ]
+        },
+        "_signature": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3_chunk_30::b165024940d4"
+      },
+      "embedding_enhancement": {
+        "contextual_prefix": "[Contract_Provisions] [Faculty and University Librarians]",
+        "tf_idf_keywords": [
+          "agreement",
+          "minimum salaries",
+          "unfair labor practice",
+          "Chicago",
+          "Faculty",
+          "benefits",
+          "university",
+          "union",
+          "charges",
+          "obligations",
+          "None",
+          "litigation",
+          "termination"
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "total_chunks": 31,
+    "avg_chunk_size_words": 399.258064516129,
+    "chunking_method": "RecursiveChunker",
+    "processed_at": "2025-11-25T13:46:28.890177",
+    "total_sentences": 499,
+    "total_words": 12560,
+    "chunking_strategy": "recursive_length",
+    "max_chunk_length": 1000,
+    "delimiters_used": null,
+    "enrichment": {
+      "method": "llm",
+      "model": "gemini-2.0-flash",
+      "enriched_at": "2025-11-25 14:38:01",
+      "document_id": "08dc41fa-72d7-4982-8bcf-4d7f03d15ee3"
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "retriever_name": "Reranker-Prefix (naive)",
+  "answers": {
+    "q1": {
+      "query": "What FTE range must GEO appointments fall within to be covered by the GEO contract?",
+      "answer": "Assistants covered by the GEO contract must have appointments that are no less than .25 FTE and no greater than .67 FTE [Source 2, 9].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:15"
+    },
+    "q2": {
+      "query": "How many days before the semester must appointment letters be issued?",
+      "answer": "Appointment letters for Graduate Employees must be issued no later than 45 days before the start of the appointment [Source 1]. For appointments made less than 45 days before or 45 days after the beginning of the semester, the letter of appointment shall be issued as soon as practicable [Source 1].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:16"
+    },
+    "q3": {
+      "query": "Are tuition and fee waivers guaranteed for GEO-covered employees?",
+      "answer": "Yes, tuition waivers are guaranteed to teaching and graduate assistants holding a .25 to .67 FTE appointment, according to the GEO-CBA 2022-2025 [Source 1]. The agreement states that once enrolled in a graduate program, students will be governed by the tuition waiver policy in effect at the time of their first enrollment in that program, as long as they remain in that program, are in good academic standing, and are making appropriate progress towards graduation [Source 1].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:17"
+    },
+    "q4": {
+      "query": "What fees must the University waive for GEO members?",
+      "answer": "The University must waive the following fees for GEO members:\n\n*   **Late Payment Fees:** The University will waive late payment fees if they are a result of the University processing the appointment late, but only for the semester in which the delay occurred [Source 1].\n*   **Health Service Fee:** The University will pay 100% of the student health service fee for each assistant covered under the agreement from Fall 2022 through Summer 2025 during their appointment period [Source 1].\n*   **Service Fee:** Assistants covered by the agreement shall have the Service Fee waived [Source 2].\n*   **Academic Facilities and Maintenance Assessment:** Assistants covered by the agreement shall have the Academic Facilities and Maintenance Assessment waived [Source 2].\n*   **Library and Information Technology Assessment:** Assistants covered by the agreement shall have the Library and Information Technology Assessment waived [Source 2].\n*   **International Student Fee:** For international students, the University shall waive $65 of the International Student Fee for each Fall and Spring semester during the term of the agreement. Any increase to the International Fee during the term of this Agreement shall also be waived [Source 2, 7].\n*   **New Fees:** Any new fee created after the ratification and execution of this agreement shall be waived for the duration of this agreement [Source 2].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:19"
+    },
+    "q5": {
+      "query": "What is the process for resolving grievances under the GEO collective bargaining agreement?",
+      "answer": "The grievance procedure for graduate employees under the GEO collective bargaining agreement involves multiple levels of review [Source 8].\n\nHere's a breakdown:\n*   **Filing Deadline:** A grievance must be filed within thirty (30) business days from when the events or pattern of events on which the grievance is based should reasonably have been discovered [Source 3].\n*   **Informal Resolution:** Informally attempting to resolve the matter does not preclude filing a written grievance [Source 3].\n*   **Union Representation:** The Union can process grievances on behalf of an employee, a group of employees, or itself [Source 2]. Either party may have the grievant or one grievant representing a group of grievants present at any step of the grievance procedure [Source 2].\n*   **Protection Against Reprisal:** Assistants who participate in the grievance procedure shall not be subject to discipline or reprisal because of such participation [Source 3].\n*   **Record Keeping:** All records of grievances will be kept separate from the official personnel file [Source 3].\n*   **Level 3 Filing:** The Union may file a grievance at Level 3 if the grievance affects more than one assistant, is common to assistants in more than one department, if the supervisor/Unit Executive Officer (UEO) do not have authority to resolve it, or in cases involving dismissal during the appointment period [Source 3].\n\nThe grievance procedure involves three levels [Source 3]:\n\n*   **Level One:** If the Union and Employer agree in writing, they may elect not to have a meeting, and the UEO or designee shall give a written decision on the grievance to the grievant and the Union within ten (10) business days of the decision to not hold a meeting [Source 8].\n*   **Level Two:** If not resolved at Level 1, the decision can be appealed to the Dean of the College within ten (10) business days after receipt of the Level 1 decision. The Dean or designee will confirm receipt and schedule a meeting. Following the meeting, a written decision will be provided within ten (10) business days. If the Union and Employer agree in writing, they may elect not to have a meeting, and the Dean or designee shall give a written decision on the grievance to the grievant and the Union within ten (10) business days of the decision to not hold a meeting [Source 8].\n*   **Level Three:** If not resolved at Level 2, the decision may be appealed to the Office of the Chancellor or designee in Campus Human Resources within ten (10) business days after receipt of the Level 2 decision. The Chancellor or designee will confirm receipt and schedule a meeting. Following the Level 3 grievance meeting, the Chancellor or designee shall give a written decision on the grievance to the grievant and the Union within ten (10) business days of the meeting. If the Union and Employer agree in writing, they may elect not to have a meeting, and the Chancellor or designee shall give a written decision on the grievance to the grievant and the Union within ten (10) business days of the decision to not hold a meeting [Source 8].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:24"
+    },
+    "q6": {
+      "query": "What are the minimum salaries for Assistant, Associate, and Full Professors under the CBA?",
+      "answer": "This information is not available in the provided documents.",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:24"
+    },
+    "q7": {
+      "query": "How is merit pay determined and allocated for tenure-track faculty?",
+      "answer": "For tenure-track faculty, the University will implement a salary increase program on the basis of merit. The merit increase is equivalent to 3.5% effective August 16, 2022, for the 2022-23 year [Source 1]. For subsequent years, the merit increase is equivalent to 3% effective August 16, 2023, for the 2023-2024 year, and 2.5% effective August 16, 2024, for the 2024-2025 year, or the FY campus-wide general salary program as announced by the Chancellor and Provost, whichever is greater [Source 1]. Effective August 16, 2025, for the 2025-2026 year, the University will implement a salary increase program on the basis of merit equivalent to 3% or the FY 2026 campus-wide general salary program as may be announced by the Chancellor and Provost [Source 3].\n\nThe annual evaluation of faculty at UIC is used to make judgments regarding the significance of accomplishments, which form part of the basis for assigning salary increases [Source 9].",
+      "num_chunks_used": 10,
+      "sources": [
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:26"
+    },
+    "q8": {
+      "query": "What protections does the agreement provide regarding academic freedom?",
+      "answer": "The agreements provide the following protections regarding academic freedom:\n\n*   **For Faculty:** The University policy is to encourage full freedom within the law of inquiry, discourse, teaching, research, and publication and to protect faculty members against influences that would restrict the exercise of these freedoms in their scholarly area [Source 2]. Faculty members who believe their academic freedom has been violated are entitled to a hearing before the Committee on Academic Freedom and Tenure of the campus Senate [Source 2].\n*   **For Graduate Employees:** The University and the Union agree that academic freedom is one of the values essential to higher education [Source 1].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:27"
+    },
+    "q9": {
+      "query": "What process governs non-reappointment or tenure decisions?",
+      "answer": "For tenure-track faculty, decisions relating to appointment, reappointment, promotion, and tenure are governed by the \"University of Illinois Statutes\" and \"The General Rules Concerning University Organization,\" as well as related UIC campus policies [Source 1]. Disputes are handled under these statutes and rules, and are not subject to the Grievance and Arbitration Article XVIII of the agreement [Source 1, Source 6].\n\nFor bargaining unit faculty, procedures for reappointment and promotion are provided in the bylaws of the faculty member\u2019s academic unit [Source 2, Source 4]. If such procedures are not included in their bylaws, academic units shall develop and incorporate procedures for reappointment and promotion [Source 2, Source 4].\n\nThe University retains sole discretion and judgment to reappoint or not reappoint a faculty member, to promote or not promote a faculty member, and/or to offer or not offer a multi-year reappointment to a faculty member [Source 5, Source 10]. Such decisions are not subject to the Grievance and Arbitration Article of the Agreement [Source 5].",
+      "num_chunks_used": 10,
+      "sources": [
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:29"
+    },
+    "q10": {
+      "query": "What grievance and arbitration process applies to tenure-track faculty disputes?",
+      "answer": "Disputes regarding appointment, reappointment, promotion, and tenure for tenure-track faculty are specifically excluded from the standard Grievance and Arbitration process outlined in Article XVIII of the agreement [Source 1, 2]. Instead, these disputes are addressed under the University of Illinois Statutes and The General Rules Concerning University Organization [Source 1, 2].\n\nHowever, a faculty member who believes that they do not enjoy academic freedom is entitled to a hearing before the Committee on Academic Freedom and Tenure of the campus Senate [Source 8]. Any substantive dispute under the Academic Freedom Article shall be resolved under Article X, Section 2 (d), of the University of Illinois Statutes [Source 8]. Any procedural dispute under this Article under the control of a Party to this Agreement shall be resolved under the Grievance and Arbitration procedure in this Agreement, and any such grievance decision thereunder shall be limited to providing a remedy correcting a process error [Source 8].\n\nThe standard grievance procedure involves several steps, including informal discussion, filing a written grievance with the immediate supervisor, and potential appeals to higher levels [Source 4]. Faculty members may have Union representation while pursuing a remedy through the campus grievance procedure [Source 4, 9]. The process has specific time limits for filing and appealing grievances, with failure to meet these deadlines potentially resulting in a waiver of the grievance [Source 4, 9].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:32"
+    },
+    "q11": {
+      "query": "What is the minimum salary for instructors, lecturers, and clinical assistant professors?",
+      "answer": "Effective August 16, 2022, the minimum salary for full-time bargaining unit members with the rank of Instructor, Lecturer, or Clinical Assistant Professor will not be lower than $60,000 [Source 1]. All of the minimum salaries referenced refer to nine-month salaries, with the exception of bargaining unit members who work for the University Libraries, where the minimum salaries refer to 12-month salaries [Source 6].",
+      "num_chunks_used": 10,
+      "sources": [
+        "GEO-CBA 2022-2025.txt",
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:33"
+    },
+    "q12": {
+      "query": "How are promotion and reappointment decisions handled for NTT faculty?",
+      "answer": "The following information is available regarding promotion and reappointment decisions for NTT faculty:\n\n*   **University Discretion:** Decisions to reappoint or not reappoint, promote or not promote, and offer or not offer multi-year reappointments to NTT faculty are reserved to the sole discretion and judgment of the University [Source 2, 7]. These decisions are not subject to the Grievance and Arbitration Article of the agreement [Source 2].\n*   **Reappointment Procedures:** Procedures for reappointment of bargaining unit faculty are provided in the bylaws of the faculty member\u2019s academic unit. If such procedures are not included in their bylaws, academic units will develop and incorporate procedures for reappointment within one year of the agreement's signing [Source 3, 8].\n*   **Reappointment Notification:** Academic units must inform faculty members who have not been continuously employed for at least ten years of their reappointment or non-reappointment by May 15 each year [Source 8].\n*   **Promotion Procedures:** Procedures for promotion of bargaining unit faculty are provided in the bylaws or policies of the faculty member\u2019s academic unit. If such procedures are not included in their bylaws, academic units will develop and incorporate procedures for promotion through shared governance within one year of the signing of the agreement [Source 3].\n*   **Annual Evaluation:** NTT faculty are evaluated annually according to FPPG 700, which aims to recognize accomplishments and make judgments for assigning salary increases and recommending promotion [Source 2]. Written expectations for faculty, as defined in Article XII, provide part of the basis for the Annual Evaluation criteria [Source 2]. Student evaluation data shall not be considered in isolation to make decisions related to renewal of employment, promotion cases, or the determination of merit raises [Source 2].\n*   **Multi-Year Contracts:** A bargaining unit member with a multi-year appointment may have their appointment terminated during the term of the contract if the specific work they have been performing is to be reduced or discontinued and/or the courses for which they were employed to teach are to be reduced or discontinued [Source 3].",
+      "num_chunks_used": 10,
+      "sources": [
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:35"
+    },
+    "q13": {
+      "query": "What side letter provisions exist regarding teaching professor ranks?",
+      "answer": "The side letter provisions regarding teaching professor ranks are as follows:\n\n*   **No Required Conversion:** \"In no case will an individual who is currently in a position modified by the \u2018Clinical\u2019 or the \u2018Research\u2019 modifier be required to convert to one modified by the \u2018Teaching\u2019 modifier\u201d as a condition for reappointment [Source 1].\n*   **Academic Unit Responsibilities:** Academic units adopting the \u201cTeaching\u201d modifier for non-tenured ranks (assistant, associate, and professor) must review and revise written workload expectations, Annual Evaluation criteria, and Promotion Norms and Expectations within a year of signing the Agreement [Source 1].\n*   **Unit Discretion:** Units have the discretion to apply for position changes to the appropriate Teaching professor rank for bargaining unit members [Source 1, 2].\n*   **Requirements for Position Change:** If the unit determines that the bargaining unit member (1) will perform the job responsibilities of a position bearing the newly adopted \u201cTeaching\u201d modifier, (2) wishes to be considered for the appropriate Teaching professor rank, and (3) possesses the degree required by the University for that rank, the unit shall submit a position change request [Source 1].\n*   **Mutual Agreement on Duties:** Changed duties resulting from a change to the Teaching professor rank shall be mutually agreed upon by the bargaining unit member and unit executive officer or dean before changed duties commence [Source 2].\n*   **Salary and Contract Timelines:** Changes in rank shall not affect bargaining unit member salaries and timelines for multi-year contracts [Source 2].\n*   **Promotion Considerations:** Bargaining unit members who change appointment under this Side Letter shall be considered for promotion under norms established by the candidate\u2019s academic unit [Source 2].\n*   **Hiring in Appropriate Rank:** After academic units complete revisions, units shall hire bargaining unit members in the appropriate rank for the responsibilities the units intend bargaining unit members to perform, and based on the required qualifications for those ranks [Source 2].",
+      "num_chunks_used": 10,
+      "sources": [
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:38"
+    },
+    "q14": {
+      "query": "Under what conditions can NTT faculty be laid off or recalled?",
+      "answer": "NTT faculty may be laid off during the term of a multi-year appointment if the specific work they have been performing is to be reduced or discontinued and/or the courses for which they were employed to teach are to be reduced or discontinued [Source 3]. The affected faculty member may choose to be placed on a recall list for up to three academic years [Source 3]. If the reduced or discontinued specific work and/or courses are reinstated, the faculty member on the recall list shall be offered reinstatement to complete the remaining term of their multi-year appointment [Source 2].",
+      "num_chunks_used": 10,
+      "sources": [
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:39"
+    },
+    "q15": {
+      "query": "What professional leave options are available to NTT faculty under the agreement?",
+      "answer": "The University and the Union agree that the Office of the Provost will continue to work with the Faculty Senate to develop and implement a policy regarding the eligibility of NTT faculty to apply for professional leave, and shall report upon the progress toward this policy annually during the term of this contract [Source 1].",
+      "num_chunks_used": 10,
+      "sources": [
+        "NTT-FACULTY 2023-final.txt",
+        "TT-FACULTY 2023-final.txt",
+        "UIC-CIR CBA 2022-2026.txt"
+      ],
+      "timestamp": "2025-11-25 14:56:40"
+    }
+  }
+}
