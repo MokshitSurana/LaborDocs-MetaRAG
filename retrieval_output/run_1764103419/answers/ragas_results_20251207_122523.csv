@@ -1,0 +1,16 @@
+Configuration,Relevancy,Faithfulness,Correctness,Similarity
+TF-IDF__recursive_,0.676,0.595,0.694,0.874
+TF-IDF__semantic_,0.698,0.286,0.671,0.852
+Reranker-Prefix__recursive_,0.91,0.533,0.638,0.888
+Reranker-TFIDF__recursive_,0.852,0.333,0.619,0.886
+Content__recursive_,0.723,0.467,0.619,0.874
+Reranker-Prefix__naive_,0.865,0.278,0.604,0.893
+Reranker-TFIDF__naive_,0.781,0.307,0.59,0.883
+Prefix-Fusion__naive_,0.849,0.467,0.545,0.872
+Reranker-Prefix__semantic_,0.779,0.444,0.516,0.882
+Content__naive_,0.847,0.383,0.506,0.874
+Content__semantic_,0.673,0.533,0.498,0.878
+Reranker-TFIDF__semantic_,0.761,0.378,0.498,0.864
+TF-IDF__naive_,0.767,0.667,0.495,0.871
+Prefix-Fusion__semantic_,0.709,0.2,0.44,0.878
+Prefix-Fusion__recursive_,0.751,0.4,0.385,0.857
